@@ -1,5 +1,8 @@
-# Center for Cloud Research and Development, NII
-## Links
+---
+title: Center for Cloud Research and Development, NII
+---
+
+# Links
 - National Institute of Informatics
   - https://www.nii.ac.jp/en/
   
