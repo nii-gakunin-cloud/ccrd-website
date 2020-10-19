@@ -1,8 +1,3 @@
-## TODO
-- https://nii-gakunin-cloud.github.io/ とのへのリンク？
-- プロジェクトごとに図があるといい？
-  - 図のサイズの調整
-
 # Center for Cloud Research and Development, NII
 
 The National Institute of Informatics (NII) seeks to advance integrated research and development activities in information-related fields, including networking, software, and content. NII also promotes the creation of a state-of-the-art academic information infrastructure, such as SINET, a Japanese high-performance R&E network. This website presents the latest results of our projects aimed at building the academic inter-cloud.
