@@ -1,8 +1,3 @@
-## TODO
-- 図のサイズ調整
-- OCS への言及+リンク追加？
-- 全体構成を練る
-
 # Application-Centric Overlay Cloud Utilizing Inter-Cloud
 
 Optimized and dedicated data analysis platforms are needed to fulfill the diverse requirements of big data applications. However, building an optimized platform is not easy. We propose the application-centric overlay cloud, which is an infrastructure to automatically build data analysis platforms customized for applications over multiple clouds.
