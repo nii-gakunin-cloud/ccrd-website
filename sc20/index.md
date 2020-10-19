@@ -1,3 +1,7 @@
+---
+title: Center for Cloud Research and Development, NII
+layout: default
+---
 # Center for Cloud Research and Development, NII
 
 The National Institute of Informatics (NII) seeks to advance integrated research and development activities in information-related fields, including networking, software, and content. NII also promotes the creation of a state-of-the-art academic information infrastructure, such as SINET, a Japanese high-performance R&E network. This website presents the latest results of our projects aimed at building the academic inter-cloud.
@@ -7,7 +11,7 @@ The National Institute of Informatics (NII) seeks to advance integrated research
 
 # Projects
 
-## Application-Centric Overlay Cloud Utilizing Inter-Cloud ([link]())
+## Application-Centric Overlay Cloud Utilizing Inter-Cloud ([link](crest))
 This project develops new infrastructure technology, *application-centric overlay cloud*, to automatically build data analysis platforms optimized for and dedicated to user applications. Our goal also includes building an inter-cloud testbed configured by production-ready computing/networking resources and running applications of genome sequencing (distributed data processing) and fluid acoustic analysis (coupled simulation). We develop middleware to automatically build data analysis platforms (Virtual Cloud Provider) and a mechanism for dynamically configuring computing resources to optimize resource allocation for an application. 
 
 ## IoT Stream Processing ([link]())
