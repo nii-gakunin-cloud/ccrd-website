@@ -9,7 +9,7 @@ permalink: /
   - [https://www.nii.ac.jp/en/](https://www.nii.ac.jp/en/)
 
 - SC20
-  - [http://ccrd.nii.ac.jp/sc20](http://ccrd.nii.ac.jp/sc20)
+  - [https://ccrd.nii.ac.jp/sc20](https://ccrd.nii.ac.jp/sc20)
 
 - Publications
   - [https://nii-gakunin-cloud.github.io](https://nii-gakunin-cloud.github.io)
