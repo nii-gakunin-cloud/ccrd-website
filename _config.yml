@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Center for Cloud Research and Development, NII
-email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   The National Institute of Informatics (NII) seeks to advance integrated research and development activities in information-related fields, including networking, software, and content. NII also promotes the creation of a state-of-the-art academic information infrastructure, such as SINET, a Japanese high-performance R&E network.
 baseurl: "" # the subpath of your site, e.g. /blog
