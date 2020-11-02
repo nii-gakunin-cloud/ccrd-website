@@ -46,18 +46,30 @@ It consists of two subsystems:
 - The *application scheduler* monitors the application state and sends the constraints for new computing resources (e.g., #CPU cores, memory size, and location of resources to handle privacy-sensitive data) to the resource allocator.
 - The *resource allocator* finds the resources that satisfy the constraints from the application scheduler and allocate them by using VCP.
 
-### A prototype for genome analysis workflows
-We developed a prototype based on Galaxy for genome analysis workflows. It consists of several modules: Galaxy, an application scheduler module (AS module in the figure), a resource allocator (RA in the figure), metrics server and VCP. Galaxy and an AS module behave as an application scheduler.
+We have developed a prototype for genome analysis workflows as described below.
+
+
+## An Ecosystem to Utilize Execution Records of Genome Analyses Workflows
+Collecting workflow execution records such as execution time for each step is important for selecting appropriate computing resources. We have developed an ecosystem to collect and utilize workflow execution records including our reconfiguarion prototype.
+
+![ecosystem](figs/metrics-ecosystem.png)
+- We developed a prototype of our reconfiguration system based on Galaxy as described above. It collects and utilizes workflow metrics and container metrics.
+- We also developed DrillHawk, which is a visualizer of workflow metrics.
+- Our reconfiguration system and DrillHawk utilize container metrics and workflow metrics obtained by CWL-metrics as well as the metrics obtained by our prototype.
+
+
+### A Prototype for Genome Analysis Workflows
+We developed a prototype based on [Galaxy](https://galaxyproject.org/) for genome analysis workflows. It consists of several modules: Galaxy, an application scheduler module (AS module in the figure), a resource allocator (RA in the figure), metrics server and VCP. Galaxy and an AS module behave as an application scheduler.
 
 ![Reconf-workflow](figs/galaxy-reconf.png)
 
 Our prototype introduces two types of virtual workflow step: `prepare job` and `reconf job` for dynamic reconfiguration:
-- The `prepare job` step is invoked before executing a workflow and makes an allocation plan
+- The `prepare job` step is invoked before executing a workflow and makes an allocation plan.
 - The `reconf job` step is invoked before executing each step and allocates computing resources according to the allocation plan.
 
-These virtual steps interact with an AS module to make a plan and allocate computing resources. An *AS core* is a reconfiguration algorithm in the AS module and is designed as an external program to easily replace with other reconfiguration algorithm. We integrated our prototype with the reconfiguration algorithm by Hokkaido University group.
+These virtual steps interact with an AS module to make a plan and to allocate computing resources. An *AS core* is a reconfiguration algorithm in the AS module and is designed as an external program to easily replace with other reconfiguration algorithm. We integrated our prototype with the reconfiguration algorithm by Hokkaido University group.
 
-#### Metrics Collection Scheme in our Reconfiguration Framework
+### Metrics Collection Scheme in our Prototype
 
 Our prototype collects two types of metrics: *container metrics* and *workflow metrics*.
 
@@ -68,31 +80,26 @@ Our prototype collects two types of metrics: *container metrics* and *workflow m
 
 <!-- ![Metrics collection scheme](figs/galaxy-as-details-metrics-en.png) -->
 
-We design the metrics format of workflow metrics to be compatible with workflow metrics obtained by [CWL-metrics](https://inutano.github.io/cwl-metrics/) by National Institute of Genetics group, which is a metrics collector for Common Workflow Language (CWL).
-
-## An Ecosystem to Utilize Execution Records ofGenome Analyses Workflows
-Collecting workflow metrics such as execution time for each step is important for selecting appropriate computing resources. We have developed .
-
-![ecosystem](figs/metrics-ecosystem.png)
-- We developed a prototype of our reconfiguration system based on Galaxy as described above. It collects and utilizes workflow metrics and container metrics.
-- We also developed DrillHawk, which is a visualizer of workflow metrics.
-- Our reconfiguration system and DrillHawk utilize container metrics and workflow metrics obtained by CWL-metrics as well as the metrics obtained by our prototype.
+We design the metrics format of workflow metrics to be compatible with workflow metrics obtained by [CWL-metrics](https://inutano.github.io/cwl-metrics/) by National Institute of Genetics group, which is a metrics collector for [Common Workflow Language (CWL)](https://www.commonwl.org/).
 
 ### DrillHawk: A Visualizer of Workflow Metrics
 
 [DrillHawk](https://github.com/tom-tan/drill-hawk) enables us to take a drill-down approach in which we first check the list of collected workflow execution records, compare several execution records using workflow metrics, and analyze the specific execution records by using Kibana.
 
-- Listing collected workflow records
-![drill hawk](figs/dh-list.png)
+- It first shows collected workflow records in the metrics server.
+![listing workflow execution records](figs/dh-list.png)
 
-- Comparing several workflow records
-  - Execution time for each step
-  - Monetary cost for each step
-![drill hawk](figs/dh-compare.png)
+- We can choose several workflow records and compare their execution times and monetary costs. In the figure, each bar represents an execution time for each workflow execution and each color represents a execution time for each step.
+![comparing execution records](figs/dh-compare.png)
 
-- Investigate with Kibana
-![drill hawk](figs/kibana.png)
+- We can investigate more details with Kibana from the above comparing graph.
+![investigating with Kibana](figs/kibana.png)
 
+## Links
+
+Publications:
+- VCP: https://nii-gakunin-cloud.github.io/#vcp
+- Dynamic Reconfiguration Framework: https://nii-gakunin-cloud.github.io/#applications
 
 ## Acknowledgement
 This work was supported by JST CREST Grant Number JPMJCR1501, Japan.
