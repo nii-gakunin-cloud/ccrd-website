@@ -16,26 +16,26 @@ Optimized and dedicated data analysis platforms are needed to fulfill the divers
 NII group developed the following middleware.
 
 ## Virtual Cloud Provider (VCP)
-- VCP is a middleware to build an application environment over multiple clouds and the Japanese academic backbone network SINET5.
-- VCP supports from a simple application environment on a single cloud to a complex application environment using multiple clouds.
-- VCP leverages Docker containers for quick application deployment and application environment reproducibility.
-- VCP supports both common and GPU-enabled virtual machines (VMs).
-- VCP supports the following cloud providers;
- - Public Cloud providers: Amazon Web Services, Microsoft Azure, Oracle Cloud Infrastructure, Sakura Cloud
- - Academic Cloud Provider: Hokkaido-Univ. Server Service
- - On-premiss provider: VMware
+
+VCP is a middleware to build an application environment over multiple clouds and the Japanese academic backbone network SINET5. VCP uses overlay cloud and overlay network architectures to treats multiple real clouds as a single virtual cloud.
+
+-	VCP supports from a simple application environment on a single cloud provider to a complex application environment using multiple cloud providers.
+-	VCP leverages Docker containers for quick application deployment and application environment reproducibility.
+-	VCP supports both common and GPU-enabled virtual machines (VMs).
+-	VCP supports the following cloud providers;
+    -	Public Cloud: Amazon Web Services, Microsoft Azure, Oracle Cloud Infrastructure, Sakura Cloud
+    -	Academic Cloud: Hokkaido-Univ. Server Service
+    -	On-premises: VMware
 
 ![VCP](figs/vcp.png)
 
-![GPU support](figs/gpu.png)
 
-VCP is used as a main service of NII's GakuNin Cloud On-demand Configration Services.
-- A Python-based development kit called VCP SDK and a monitoring tool are provided.
-- Jupyter Notebook-based templates for typical academic applications, such as moodle, Galaxy, and OpenHPC.
+VCP is a core software of NII’s GakuNin Cloud On-demand Configuration Service.
+
+-	A Python-based development kit called VCP SDK and a monitoring tool are provided.
+-	Jupyter Notebook-based templates for typical academic applications, such as moodle, Galaxy, and OpenHPC, are provided.
 
 ![OCS](figs/ocs.png)
-
-
 
 ## Dynamic Reconfiguration Framework
 We propose a framework that adds and removes computing resources (BM or VM) during runtime. The main idea is that we can represent requirements of computing resources to be reconfigured as constraints on specifications of computing resources.
@@ -97,9 +97,9 @@ We design the metrics format of workflow metrics to be compatible with workflow 
 
 ## Links
 
-Publications:
-- VCP: https://nii-gakunin-cloud.github.io/#vcp
-- Dynamic Reconfiguration Framework: https://nii-gakunin-cloud.github.io/#applications
+- Publications:
+    - VCP: https://nii-gakunin-cloud.github.io/#vcp
+    - Dynamic Reconfiguration Framework: https://nii-gakunin-cloud.github.io/#applications
 
 ## Acknowledgement
 This work was supported by JST CREST Grant Number JPMJCR1501, Japan.
