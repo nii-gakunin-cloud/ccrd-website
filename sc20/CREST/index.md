@@ -15,6 +15,8 @@ Optimized and dedicated data analysis platforms are needed to fulfill the divers
 
 NII group developed the following middleware.
 
+---
+
 ## Virtual Cloud Provider (VCP)
 
 VCP is a middleware to build an application environment over multiple clouds and the Japanese academic backbone network SINET5. VCP uses overlay cloud and overlay network architectures to treats multiple real clouds as a single virtual cloud.
