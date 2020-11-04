@@ -100,8 +100,8 @@ We design the metrics format of workflow metrics to be compatible with workflow 
 ## Links
 
 - Publications:
-    - VCP: https://nii-gakunin-cloud.github.io/#vcp
-    - Dynamic Reconfiguration Framework: https://nii-gakunin-cloud.github.io/#applications
+    - VCP: [https://nii-gakunin-cloud.github.io/#vcp](https://nii-gakunin-cloud.github.io/#vcp)
+    - Dynamic Reconfiguration Framework: [https://nii-gakunin-cloud.github.io/#applications](https://nii-gakunin-cloud.github.io/#applications)
 
 ## Acknowledgement
 This work was supported by JST CREST Grant Number JPMJCR1501, Japan.
