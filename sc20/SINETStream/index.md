@@ -5,9 +5,8 @@ layout: default
 # IoT Stream Processing
 Official Site:
 SINETStream, [https://www.sinetstream.net/](https://www.sinetstream.net/)
-<div align="center">
-[![promotion video](http://img.youtube.com/vi/Z0wlUi4lr6c/0.jpg)](http://www.youtube.com/watch?v=Z0wlUi4lr6c "SINETStream Promotion Video")
-</div>
+
+[![promotion video]<center>(http://img.youtube.com/vi/Z0wlUi4lr6c/0.jpg)](http://www.youtube.com/watch?v=Z0wlUi4lr6c "SINETStream Promotion Video")</center>
 
 
 ## Overview
