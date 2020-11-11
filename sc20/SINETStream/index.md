@@ -6,8 +6,12 @@ layout: default
 Official Site:
 SINETStream, [https://www.sinetstream.net/](https://www.sinetstream.net/)
 
-[![promotion video](http://img.youtube.com/vi/Z0wlUi4lr6c/0.jpg)](http://www.youtube.com/watch?v=Z0wlUi4lr6c "SINETStream Promotion Video")
-
+<div align="center">
+<br/>
+<a href="https://www.youtube.com/watch?v=Z0wlUi4lr6c">Introduction of Wide Area Data Collection Infrastructure (Mobile SINET) and SINETStream</a>
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z0wlUi4lr6c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Overview
 
