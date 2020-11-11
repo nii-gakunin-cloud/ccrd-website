@@ -57,3 +57,4 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+  - sc20/LC4RI #
