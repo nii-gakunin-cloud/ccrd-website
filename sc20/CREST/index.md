@@ -32,7 +32,7 @@ VCP is a middleware to build an application environment over multiple cloud prov
     -	Academic Cloud: Hokkaido-Univ. Server Service
     -	On-premise: VMware
 
-
+![VCP](figs/vcp.r1.png)
 
 VCP is a core software of NII’s GakuNin Cloud On-demand Configuration Service.
 
