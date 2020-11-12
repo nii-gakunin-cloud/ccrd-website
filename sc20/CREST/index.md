@@ -22,11 +22,11 @@ NII group developed the following middleware.
 
 ## Virtual Cloud Provider (VCP)
 
-VCP is a middleware to build an application environment over multiple cloud providers and the Japanese academic backbone network SINET5. VCP uses overlay cloud and overlay network architectures to treats multiple real clouds ('Real Cloid provider A-C' in the figure below) as a single virtual cloud ('Virtual Cloud Provider').
+VCP is a middleware to build an application environment over multiple cloud providers and the Japanese academic backbone network SINET5. VCP uses overlay cloud and overlay network architectures to treats multiple real clouds ('On-Premise provider and Real Cloud provider A-C' in the figure below) as a single virtual cloud ('Virtual Cloud Provider').
 
--	VCP supports from a simple application environment on a single cloud provider (Application-3), to a complex application environment using multiple cloud providers (Application 2 and 3).
--	VCP leverages Docker containers for quick application deployment and application environment reproducibility (right figure).
--	VCP supports both common and GPU-enabled virtual machines (VMs).
+-	VCP supports from a simple application environment on a single cloud provider (Application-3), to a complex application environment using multiple cloud providers (Application 1 and 2).
+-	VCP leverages Docker containers for quick application deployment and application environment reproducibility (right hand figure shows the a compute instance architecture).
+-	VCP supports both common and GPU-enabled instances. (blue boxes)
 -	VCP supports the following cloud providers;
     -	Public Cloud: Amazon Web Services, Microsoft Azure, Oracle Cloud Infrastructure, Sakura Cloud
     -	Academic Cloud: Hokkaido-Univ. Server Service
