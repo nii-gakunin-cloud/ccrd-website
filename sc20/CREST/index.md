@@ -34,9 +34,8 @@ VCP is a middleware to build an application environment over multiple cloud prov
 
 ![VCP](figs/vcp.r1.png)
 
-NII serves GakuNin Cloud On-demand Configuration Service using VCP as a core software.
+VCP is a core software of NII's GakuNin Cloud On-demand Configuration Service.
 
--	A Python-based development kit called VCP SDK and a monitoring tool are provided.
 -	A Python-based development kit called VCP SDK and a monitoring tool are provided.
 -	Jupyter Notebook-based templates for typical academic applications, such as moodle, Galaxy, and OpenHPC, are provided.
 
