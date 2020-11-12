@@ -36,6 +36,10 @@ VCP is a middleware to build an application environment over multiple cloud prov
 
 VCP is a core software of NII's GakuNin Cloud On-demand Configuration Service.
 
+-   User of the service can build an application environment with the following steps.
+    -   Log-in Jupyter Notebook Server
+    -   Select a building template of the target application environment (a Jupyter Notebook file)
+    -   Run
 -	A Python-based development kit called VCP SDK and a monitoring tool are provided.
 -	Jupyter Notebook-based templates for typical academic applications, such as moodle, Galaxy, and OpenHPC, are provided.
 
