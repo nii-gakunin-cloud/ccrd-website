@@ -26,3 +26,6 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 
 gem "jekyll-readme-index", "~> 0.3.0"
+gem "jekyll-redirect-from"
+
+

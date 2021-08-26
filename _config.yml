@@ -30,6 +30,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: minima
 plugins:
   - jekyll-readme-index
+  - jekyll-redirect-from
 
 readme_index:
   enabled: true
