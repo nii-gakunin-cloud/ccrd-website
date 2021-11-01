@@ -6,7 +6,7 @@ layout: default
 
 The National Institute of Informatics (NII) seeks to advance integrated research and development activities in information-related fields, including networking, software, and content. NII also promotes the creation of a state-of-the-art academic information infrastructure, such as SINET, a Japanese high-performance R&E network. 
 
-The center aims at establishment of the national advanced R&E infrastructure taking advantage of clouds. We research and develop advanced cloud infrastructure technologies such as inter-cloud, which utilizes multiple cloud platforms in a federated manner.
+The center aims at establishment of the national advanced R&E infrastructure taking advantage of clouds. We research and develop advanced cloud infrastructure technologies enabling data-driven science, including inter-cloud, IoT, reproducible infrastructure, data storage, and authentication.
 
 - Research and development of infrastructure technologies such as cloud architecture and middleware.
 - Establishment of inter-cloud testbed in cooperation with researchers in universities.
