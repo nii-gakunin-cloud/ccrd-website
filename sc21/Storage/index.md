@@ -17,19 +17,21 @@ For the astronomy data, we have also started an additional PoC where data analys
   
   
 ### PoC Configuration  
-![POC Configuration](figs/fig01.jpg)    
+![POC Configuration](fig01.jpg)    
   
     
 ## Example of PoC Results  
   
 ### Performance of uploading astronomy data  
-![Upload performance](figs/fig02.jpg)    
+![Upload performance](fig02.jpg)    
 
-### Configuration of ALMA NGAS [3] ported to AWS  
-![NGAS configuration](figs/fig03.jpg)  
+###### Estimation of cloud charge in a hybrid configuration
 
-### Example of cost estimation of NGAS on AWS  
-![Cost estimation](figs/fig04.jpg)  
+### (1) Tiered storage including Glacier, S3 IA, and on-premise storage  
+![NGAS configuration](fig03.jpg)  
+
+### (2) Estimation  
+![Cost estimation](fig04.jpg)  
   
   
   
@@ -45,7 +47,7 @@ Hiroshi Yoshida, Kento Aida, et al.: "PoC of storing and analyzing the ALMA tele
 [https://www.youtube.com/watch?v=MhIVZzrNVwo&feature=emb_logo](https://www.youtube.com/watch?v=MhIVZzrNVwo&feature=emb_logo)
 
 [Slides]
-[Hiroshi Yoshida, Kento Aida: "Performance and Cost Evaluation of Public Cloud Cold Storage Services for Astronomy Data Archive and Analysis"](material/Performance and Cost of Cloud Cold Storage for Astronomy Data Archive and Analysis.pdf)
+[Hiroshi Yoshida, Kento Aida: "Performance and Cost Evaluation of Public Cloud Cold Storage Services for Astronomy Data Archive and Analysis"](material/SC21_Performance and Cost of Cloud Cold Storage for Astronomy Data Archive and Analysis.pdf)
    
    
    
