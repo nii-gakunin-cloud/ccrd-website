@@ -16,11 +16,11 @@ Astronomy: Data of ALMA and Nobeyama Radio Observatory provided by NAOJ [2]
 For the astronomy data, we have also started an additional PoC where data analyses are also performed inside the cloud using server instances.
   
   
-### PoC Configuration  
+##### PoC Configuration  
 ![POC Configuration](fig01.jpg)    
   
     
-## Example of PoC Results  
+###### Example of PoC Results  
   
 ### Performance of uploading astronomy data  
 ![Upload performance](fig02.jpg)    
@@ -47,7 +47,7 @@ Hiroshi Yoshida, Kento Aida, et al.: "PoC of storing and analyzing the ALMA tele
 [https://www.youtube.com/watch?v=MhIVZzrNVwo&feature=emb_logo](https://www.youtube.com/watch?v=MhIVZzrNVwo&feature=emb_logo)
 
 [Slides]
-[Hiroshi Yoshida, Kento Aida: "Performance and Cost Evaluation of Public Cloud Cold Storage Services for Astronomy Data Archive and Analysis"](material/SC21_Performance and Cost of Cloud Cold Storage for Astronomy Data Archive and Analysis.pdf)
+![Hiroshi Yoshida, Kento Aida: "Performance and Cost Evaluation of Public Cloud Cold Storage Services for Astronomy Data Archive and Analysis".](material/SC21_Performance and Cost of Cloud Cold Storage for Astronomy Data Archive and Analysis.pdf)
    
    
    
