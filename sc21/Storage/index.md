@@ -47,7 +47,7 @@ Hiroshi Yoshida, Kento Aida, et al.: "PoC of storing and analyzing the ALMA tele
 [https://www.youtube.com/watch?v=MhIVZzrNVwo&feature=emb_logo](https://www.youtube.com/watch?v=MhIVZzrNVwo&feature=emb_logo)
 
 [Slides]    
-[Performance and Cost Evaluation of Public Cloud Cold Storage Services for Astronomy Data Archive and Analysis](https://ccrd.nii.ac.jp/sc21/Storage/materials/SC21_Performance_and_Cost_of_Cloud_Cold_Storage_for_Astronomy_Data_Archive_and_Analysis.pdf)
+[Performance and Cost Evaluation of Public Cloud Cold Storage Services for Astronomy Data Archive and Analysis](https://ccrd.nii.ac.jp/sc21/Storage/material/SC21_Performance_and_Cost_of_Cloud_Cold_Storage_for_Astronomy_Data_Archive_and_Analysis.pdf)
    
    
    
