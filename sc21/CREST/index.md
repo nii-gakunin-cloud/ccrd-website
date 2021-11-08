@@ -61,7 +61,7 @@ We have developed a prototype for genome analysis workflows as described below.
 Collecting workflow execution records such as execution time for each step is important for selecting appropriate computing resources. We have developed an ecosystem to collect and utilize workflow execution records including our reconfiguarion prototype.
 
 ![ecosystem](figs/metrics-ecosystem.png)
-- We developed a prototype of our reconfiguration system based on Galaxy as described above. It collects and utilizes workflow metrics and container metrics.
+- We developed a prototype of our reconfiguration system based on Galaxy and ep3, a CWL-based workflow engine developed by our project. It collects and utilizes workflow metrics and container metrics.
 - We also developed DrillHawk, which is a visualizer of workflow metrics.
 - Our reconfiguration system and DrillHawk utilize container metrics and workflow metrics obtained by CWL-metrics as well as the metrics obtained by our prototype.
 
@@ -76,6 +76,7 @@ Our prototype introduces two types of virtual workflow step: `prepare job` and `
 - The `reconf job` step is invoked before executing each step and allocates computing resources according to the allocation plan.
 
 These virtual steps interact with an AS module to make a plan and to allocate computing resources. An *AS core* is a reconfiguration algorithm in the AS module and is designed as an external program to easily replace with other reconfiguration algorithm. We integrated our prototype with the reconfiguration algorithm by Hokkaido University group.
+An AS module and RA can be integrated with [ep3](https://github.com/tom-tan/ep3).
 
 ### Metrics Collection Scheme in our Prototype
 
