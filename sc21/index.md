@@ -31,5 +31,5 @@ Jupyter Notebook has become an essential tool for computational research. Its co
 ## PoC of Storing Scientific Research Data in Cloud Cold Storage ([link](Storage))
 The adoption of cold storage services should be considered in order to reduce the TCO and the labor of storage management of maintaining large amounts of data for long periods. The goal of this project is to acquire practical information for making decisions about storing research data in cloud cold storage and designing an overall data storage architecture by conducting experiments using the cold storage services of multiple commercial public clouds.
 
-## Cope with the Gap between Identity Federation and Cloud Service Sign-On
+## Cope with the Gap between Identity Federation and Cloud Service Sign-On ([link](CGW))
 GakuNin is an identity access management (IAM) federation that universities and institutes in Japan join to make good use of academic e-resources. We fill the gap between the academic IAM framework (GakuNin) and authentication frameworks for public cloud services by extending the GakuNin Cloud Gateway Service (CGS), which enables efficient and suitable management by SAML identity providers (IdPs) and services providers (SPs) that permits end-users to easily access e-resources or services with a single sign-on (SSO).
