@@ -10,6 +10,13 @@ GakuNin Cloud Gateway Service, [https://cloud.gakunin.jp/cgw/](https://cloud.gak
 ## GakuNin - Academic IAM Federation
 GakuNin is an identity access management (IAM) federation that universities and institutes in Japan join to make good use of academic e-resources. The GakuNin Cloud Gateway Service (CGS) enables efficient and suitable management of information about SAML identity providers (IdPs) and services providers (SPs) and also enables end users to easily access e-resources or services with single sign-on (SSO).
 
+<figure>
+  <div style="text-align:center">
+  <img src="figs/SC21-gakunin.png" alt="GakuNin architecture" style="zoom:85%;" />
+  <center><figcaption>Fig.1. Architecture of GakuNin</figcaption></center>
+  </div>
+</figure>
+
 ## Research Goal
 The next step is to extend the SSO to cloud services that do not participate in the identity federation. Typical cloud services have the following characteristics that make them unpopular.
 
@@ -34,6 +41,13 @@ Applies: 1, 2, 6
 Not applicable: 3, 4, 5
 
 We extended our GakuNin CGS to fill this gap in case 3 as a proxy model:
+
+<figure>
+  <div style="text-align:center">
+  <img src="figs/SC21-case3.png" alt="AWS proxy" style="zoom:85%;" />
+  <center><figcaption>Fig.2. Proxy model for connecting AWS Console</figcaption></center>
+  </div>
+</figure>
 
 ## Future issues
 We are now aiming to create a more general-purpose proxy system based on the findings of these three cases.
