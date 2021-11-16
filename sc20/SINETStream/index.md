@@ -1,8 +1,9 @@
 ---
-title: IoT Stream Processing
 layout: default
 ---
-# IoT Stream Processing
+
+
+ IoT Stream Processing
 <div align="center">
 <a href="https://www.youtube.com/watch?v=Z0wlUi4lr6c">Introduction of Wide Area Data Collection Infrastructure (Mobile SINET) and SINETStream</a>
 <br/>

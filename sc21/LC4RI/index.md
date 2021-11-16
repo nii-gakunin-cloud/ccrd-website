@@ -1,6 +1,7 @@
 ---
+title: Reproducibility Extensions for Jupyter Notebook (LC4RI tools)
 layout: default
-title: LC4RI tools
+redirect_to: "https://literate-computing.github.io/fastpages/tools_en/"
 ---
 
 Literate Computing Tools are our enhancements to Jupyter for achieving the following goals:

@@ -1,8 +1,9 @@
 ---
-title: PoC of Storing Scientific Research Data in Cloud Cold Storage Services
 layout: default
 ---
-# Performance and Cost of Cloud Cold Storage for Astronomy Data Archive and Analysis
+
+
+ Performance and Cost of Cloud Cold Storage for Astronomy Data Archive and Analysis
 The adoption of cloud cold storage should be considered in order to reduce the TCO and the labor of storage management of maintaining large amounts of research data for long periods. Acquiring information on performance, manageability, and cost, and establishing best practices through PoC activities are crucial for adopting cloud cold storage.
 
 ## Research Goal

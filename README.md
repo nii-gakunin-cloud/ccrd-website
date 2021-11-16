@@ -1,6 +1,7 @@
 ---
 title: Front page
 layout: default
+redirect_to: "https://ccrd.nii.ac.jp/sc21/"
 permalink: /
 ---
 

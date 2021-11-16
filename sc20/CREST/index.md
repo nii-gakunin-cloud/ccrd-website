@@ -1,11 +1,11 @@
 ---
-title: Application-Centric Overlay Cloud Utilizing Inter-Cloud
 layout: default
 ---
 * toc
 {:toc}
 
-# Application-Centric Overlay Cloud Utilizing Inter-Cloud
+
+ Application-Centric Overlay Cloud Utilizing Inter-Cloud
 
 Optimized and dedicated data analysis platforms are needed to fulfill the diverse requirements of big data applications. However, building an optimized platform is not easy. We propose the application-centric overlay cloud, which is an infrastructure to automatically build data analysis platforms customized for applications over multiple clouds.
 
