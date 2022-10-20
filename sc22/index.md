@@ -1,6 +1,6 @@
 ---
 title: Center for Cloud Research and Development, NII
-layout: page
+layout: home
 ---
 # Academic Information Infrastructure for Data-Driven Science
 
