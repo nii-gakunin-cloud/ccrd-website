@@ -1,5 +1,5 @@
 ---
-title: Application-Centric Overlay Cloud Utilizing Inter-Cloud
+title: Automatically Building Systems for Dedicated Data Analysis Utilizing Virtual Clouds
 layout: default
 ---
 * toc
@@ -14,14 +14,14 @@ Optimized and dedicated data analysis platforms are needed to fulfill the divers
 
 ## Virtual Cloud Provider (VCP)
 
-VCP is a middleware to build an application environment over multiple cloud providers and the Japanese academic backbone network SINET5. VCP uses overlay cloud and overlay network architectures to treats multiple real clouds ('On-Premise provider and Real Cloud provider A-C' in the figure below) as a single virtual cloud ('Virtual Cloud Provider').
+VCP is a middleware to build an application environment over multiple cloud providers and the Japanese academic backbone network SINET6. VCP uses overlay cloud and overlay network architectures to treats multiple real clouds ('On-Premise provider and Real Cloud provider A-C' in the figure below) as a single virtual cloud ('Virtual Cloud Provider').
 
 -	VCP supports from a simple application environment on a single cloud provider (Application-3), to a complex application environment using multiple cloud providers (Application 1 and 2).
 -	VCP leverages Docker containers for quick application deployment and application environment reproducibility (right hand figure shows the a compute instance architecture).
 -	VCP supports both common and GPU-enabled instances. (blue boxes)
 -	VCP supports the following cloud providers;
     -	Public Cloud: Amazon Web Services, Microsoft Azure, Oracle Cloud Infrastructure, Sakura Cloud
-    -	Academic Cloud: Hokkaido-Univ. Server Service
+    -	Academic Cloud: Hokkaido-Univ. Server Service, mdx (https://mdx.jp) 
     -	On-premise: VMware
 
 ![VCP](figs/vcp.r1.png)
@@ -33,7 +33,7 @@ VCP is used as the core software for NII's GakuNin cloud-on-demand configuration
     -   Select a building template of the target application environment (a Jupyter Notebook file)
     -   Run
 -	A Python-based development kit called VCP SDK and a monitoring tool are provided.
--	Jupyter Notebook-based templates for typical academic applications, such as moodle, Galaxy, and OpenHPC, are provided.
+-	Jupyter Notebook-based templates for typical academic applications, such as Moodle, CoursewareHub, Cloud Burst, and OpenHPC, are provided.
 
 ![OCS](figs/ocs.r1.png)
 
