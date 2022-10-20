@@ -5,18 +5,10 @@ layout: default
 * toc
 {:toc}
 
-# Application-Centric Overlay Cloud Utilizing Inter-Cloud
+# Automatically Building Systems for Dedicated Data Analysis Utilizing Virtual Clouds
 
-Optimized and dedicated data analysis platforms are needed to fulfill the diverse requirements of big data applications. However, building an optimized platform is not easy. We propose the application-centric overlay cloud, which is an infrastructure to automatically build data analysis platforms customized for applications over multiple clouds.
+Optimized and dedicated data analysis platforms are needed to fulfill the diverse requirements of big data applications. However, building an optimized platform is not easy. We propose the Virtual Cloud Provider (VCP), which is an infrastructure to automatically build data analysis platforms customized for applications over multiple clouds. We have also developed an ecosystem for genome analysis workflows to utilize workflow execution records.
 
-## Research Goal
-- Develop new infrastructure technology to automatically build data analysis platforms that are optimized for applications. We call this infrastructure the *application-centric overlay cloud*.
-- Build an inter-cloud testbed configured by production-ready computing and networking resources.
-- Apply the overlay cloud technology to genome sequencing (distributed data processing) and fluid acoustic analysis (coupled simulation).
-
-![Overview](figs/overview.png)
-
-NII group developed the following middleware.
 
 ---
 
