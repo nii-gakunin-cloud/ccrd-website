@@ -1,7 +1,6 @@
 ---
 title: Front page
 layout: default
-redirect_to: "https://ccrd.nii.ac.jp/sc21/"
 permalink: /
 ---
 
@@ -14,6 +13,9 @@ permalink: /
 
 - SC21
   - [https://ccrd.nii.ac.jp/sc21](sc21)
+
+- SC22
+  - [https://ccrd.nii.ac.jp/sc22](sc22)
 
 - Publications
   - [https://nii-gakunin-cloud.github.io](https://nii-gakunin-cloud.github.io)
