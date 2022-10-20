@@ -28,8 +28,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 #theme: minima
-theme: monophase
+remote_theme: zivhub/monophase@v0.1.0
 plugins:
+  - jekyll-remote-theme
   - jekyll-readme-index
   - jekyll-redirect-from
 
