@@ -9,9 +9,9 @@ The adoption of cloud cold storage should be considered as a way to reduce the t
 The purpose of the studies is to acquire practical information for making decisions about storing research data in cloud cold storage and designing an overall data storage architecture by conducting experiments using the cold storage services of major commercial public clouds. 
 In the studies, actual research data are stored in cloud storage services and accessed through research applications.
   
-### Astronomy: Data of ALMA and Nobeyama Radio Observatory provided by NAOJ [1]  
+- Astronomy: Data of ALMA and Nobeyama Radio Observatory provided by NAOJ [1]  
   
-### High energy physics: Belle II experiment physical simulation data provided by KEK [2]  
+- High energy physics: Belle II experiment physical simulation data provided by KEK [2]  
   
 With the ALMA data, we also conduct data analyses performed in the cloud using VM  instances and investigate the optimization of hybrid configurations, including on-premise and cloud resources.
   
