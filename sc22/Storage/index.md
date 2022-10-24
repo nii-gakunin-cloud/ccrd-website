@@ -3,34 +3,38 @@ title: PoC of Storing Scientific Research Data in Cloud Cold Storage Services
 layout: default
 ---
 # Performance and Cost of Cloud Cold Storage for Astronomy Data Archive and Analysis
-The adoption of cloud cold storage should be considered in order to reduce the TCO and the labor of storage management of maintaining large amounts of research data for long periods. Acquiring information on performance, manageability, and cost, and establishing best practices through PoC activities are crucial for adopting cloud cold storage.
+The adoption of cloud cold storage should be considered as a way to reduce the total cost of ownership (TCO) and the labor required for storing, managing, and maintaining large amounts of research data for long periods. Acquiring information on performance, manageability, and cost while establishing best practices through case studies are crucial for eventually reaching the point of adopting cloud cold storage.
 
-## Research Goal
-The goal is to acquire practical information for making decisions about storing research data in cloud cold storage and designing an overall data storage architecture by conducting experiments using the cold storage services of multiple commercial public clouds.
-The PoC is focused on case study analyses of storing actual research data and accessing them through research applications.
+## Purpose of Case Studies
+The purpose of the studies is to acquire practical information for making decisions about storing research data in cloud cold storage and designing an overall data storage architecture by conducting experiments using the cold storage services of major commercial public clouds. 
+In the studies, actual research data are stored in cloud storage services and accessed through research applications.
   
-High energy physics: Belle II experiment physical simulation data provided by KEK [1]  
+Astronomy: Data of ALMA and Nobeyama Radio Observatory provided by NAOJ [1]  
   
-Astronomy: Data of ALMA and Nobeyama Radio Observatory provided by NAOJ [2]  
+High energy physics: Belle II experiment physical simulation data provided by KEK [2]  
   
-For the astronomy data, we have also started an additional PoC where data analyses are also performed inside the cloud using server instances.
+With the ALMA data, we also conduct data analyses performed in the cloud using VM  instances and investigate the optimization of hybrid configurations, including on-premise and cloud resources.
   
   
-### PoC Configuration  
-![POC Configuration](fig01.jpg)    
+### Experiment configuration and measurement examples  
+![Experiment configuration and measurement examples](fig01.jpg)    
   
     
-## Example of PoC Results  
+## Case Study Example: Estimation of cloud charge in a hybrid configuration
+
+Cold storage services such as Glacier Flexible Retrieve require a long restoration time (multiple hours) before data retrieval; nevertheless they are advantageous in terms of storage cost.
   
-### Performance of uploading astronomy data  
-![Upload performance](fig02.jpg)    
+### Results of the measurement using actual ALMA telescope data (16MB)  
+![Results of the measurement using actual ALMA telescope data (16MB)](fig02.jpg)    
 
-### Estimation of cloud charge in a hybrid configuration
+Because NAOJ already possesses on-premise resources, a hybrid configuration based on a tiered storage architecture is a viable option that reduces cloud storage and egress transfer charges without crucial performance degradation.
 
-#### (1) Tiered storage including Glacier, S3 IA, and on-premise storage  
-![NGAS configuration](fig03.jpg)  
+### Tiered storage including Glacier, S3 IA, and on-premise storage  
+![Tiered storage including Glacier Flexible Retrieve, S3 IA, and on-premise storage](fig03.jpg)  
 
-#### (2) Estimation  
+The estimation proves that the tiered storage configuration including S3-IA and Glacier Flexible Retrieve restrains the extreme increase of the cloud storage charge. 
+
+### (2) Cost Estimation  
 ![Cost estimation](fig04.jpg)  
   
   
@@ -58,6 +62,6 @@ Hiroshi Yoshida, Kento Aida, et al.: "PoC of storing and analyzing the ALMA tele
 We would like to thank the PoC members of KEK and NAOJ for providing data and support.
 
 
-[1] High Energy Accelerator Research Organization  
-[2] National Astronomical Observatory of Japan  
+[1] National Astronomical Observatory of Japan  
+[2] High Energy Accelerator Research Organization  
 [3] New Generation Archive System  
