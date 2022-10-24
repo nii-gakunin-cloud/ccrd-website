@@ -26,8 +26,8 @@ This website exhibit presents the latest results of our projects aimed at buildi
 ## Zero Trust based IoT Security ([link](https://zt-iot.nii.ac.jp/en/))
 - Secure Internet of Things (IoT) systems in accordance with the concept of zero trust security by the fusion of formal verification and system software technologies
 
-## PoC of Storing Scientific Research Data in Cloud Cold Storage Services ([link](Storage))
-- Case study on storing scientific research data, e.g., ALMA Radio Telescope data, and accessing them through research applications
+## Case Studies of Storing Scientific Research Data in Cloud Cold Storage Services ([link](Storage))
+- Case studies of storing scientific research data, e.g., ALMA Radio Telescope data, and accessing them through research applications
 
 ## Cope with the Gap between Identity Federation and Cloud Service Sign-On ([link](CGW))
 GakuNin is an identity access management (IAM) federation that universities and institutes in Japan join to make good use of academic e-resources. We fill the gap between the academic IAM framework (GakuNin) and authentication frameworks for public cloud services by extending the GakuNin Cloud Gateway Service (CGS), which enables efficient and suitable management by SAML identity providers (IdPs) and services providers (SPs) that permits end-users to easily access e-resources or services with a single sign-on (SSO).
