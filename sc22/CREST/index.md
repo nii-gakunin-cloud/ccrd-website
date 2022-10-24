@@ -49,7 +49,7 @@ It consists of two subsystems:
 We have developed a prototype for genome analysis workflows as described below.
 
 
-## An Ecosystem to Utilize Execution Records of Genome Analyses Workflows
+## Ecosystem to Utilize Execution Records of Genome Analyses Workflows
 Collecting workflow execution records such as execution time for each step is important for selecting appropriate computing resources. We have developed an ecosystem to collect and utilize workflow execution records including our reconfiguarion prototype.
 
 ![ecosystem](figs/metrics-ecosystem.png)
