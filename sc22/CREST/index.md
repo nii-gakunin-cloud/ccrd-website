@@ -99,6 +99,6 @@ We design the metrics format of workflow metrics to be compatible with workflow 
 ## Links
 
 - Publications:
-    - VCP: [https://ccrd.nii.ac.jp/publications.html#vcp](https://ccrd.nii.ac.jp/publications.html#vcp)
-    - Dynamic Reconfiguration Framework: [https://ccrd.nii.ac.jp/publications.html#applications](https://ccrd.nii.ac.jp/publications.html#applications)
+    - VCP: [https://ccrd.nii.ac.jp/publications#vcp](/publications#vcp)
+    - Dynamic Reconfiguration Framework: [https://ccrd.nii.ac.jp/publications#applications](/publications#applications)
 

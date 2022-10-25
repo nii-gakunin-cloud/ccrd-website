@@ -18,4 +18,4 @@ permalink: /
   - [https://ccrd.nii.ac.jp/sc22](sc22)
 
 - Publications
-  - [https://ccrd.nii.ac.jp/publications.html](https://ccrd.nii.ac.jp/publications.html)
+  - [https://ccrd.nii.ac.jp/publications](publications)
