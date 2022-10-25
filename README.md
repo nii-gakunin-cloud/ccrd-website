@@ -18,4 +18,4 @@ permalink: /
   - [https://ccrd.nii.ac.jp/sc22](sc22)
 
 - Publications
-  - [https://nii-gakunin-cloud.github.io](https://nii-gakunin-cloud.github.io)
+  - [https://ccrd.nii.ac.jp/publications.html](https://ccrd.nii.ac.jp/publications.html)
