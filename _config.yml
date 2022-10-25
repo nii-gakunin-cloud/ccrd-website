@@ -23,8 +23,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   The National Institute of Informatics (NII) seeks to advance integrated research and development activities in information-related fields, including networking, software, and content. NII also promotes the creation of a state-of-the-art academic information infrastructure, such as SINET, a Japanese high-performance R&E network.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
+
+author:
+  name: Center for Cloud Research and Development, NII
 
 # Build settings
 remote_theme: zivhub/monophase@v0.1.0
@@ -49,6 +50,7 @@ readme_index:
 exclude:
   - CNAME
   - LICENSE
+  - CONTRIBUTING.md
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
