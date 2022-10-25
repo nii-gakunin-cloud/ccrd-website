@@ -14,3 +14,6 @@
 ## `Gemfile` を更新した場合
 ターミナルから `bundle update` を実行し、`Gemfile.lock` および各 gem を更新する必要があります。
 
+## ヘッダーのナビゲーションを更新したい
+
+- リポジトリの `_data/navigation.yml` を変更することで更新できます。
