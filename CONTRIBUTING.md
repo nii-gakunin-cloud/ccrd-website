@@ -39,3 +39,10 @@
 - PDF を PNG にエクスポート
   - mac の場合はプレビューを使えば大丈夫です。PNG へのエクスポート時に `解像度 300 pixel/inch` の設定にしておくと画質的にも安心です
   - Windows での PDF -> PNG 変換の方法募集中
+
+## `/projects` のリダイレクト先を変更したい
+
+[NII の公式サイト](https://www.nii.ac.jp/research/centers/ccrd/) から https://ccrd.nii.ac.jp/projects/ にリンクが貼られています。
+現在は https://ccrd.nii.ac.jp/projects/ は https://ccrd.nii.ac.jp/sc22/ へのリダイレクトになっています。
+
+`/projects/index.md` の `redirect_to` の部分を修正することで、リダイレクト先を変更できます。
