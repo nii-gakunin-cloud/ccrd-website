@@ -24,7 +24,7 @@ VCP is a middleware to build an application environment over multiple cloud prov
     -	Academic Cloud: Hokkaido-Univ. Server Service, mdx (https://mdx.jp) 
     -	On-premise: VMware
 
-![VCP](figs/vcp.r1.png)
+![VCP](figs/vcp.r2.png)
 
 VCP is used as the core software for NII's GakuNin cloud-on-demand configuration service.
 
@@ -35,12 +35,12 @@ VCP is used as the core software for NII's GakuNin cloud-on-demand configuration
 -	A Python-based development kit called VCP SDK and a monitoring tool are provided.
 -	Jupyter Notebook-based templates for typical academic applications, such as Moodle, CoursewareHub, Cloud Burst, and OpenHPC, are provided.
 
-![OCS](figs/ocs.r1.png)
+![OCS](figs/ocs.r2.png)
 
 ## Dynamic Reconfiguration Framework
 We propose a framework that adds and removes computing resources (BM or VM) during runtime. The main idea is that we can represent requirements of computing resources to be reconfigured as constraints on specifications of computing resources.
 
-![Reconf](figs/reconf-overview.png)
+![Reconf](figs/reconf-overview2.png)
 
 It consists of two subsystems:
 - The *application scheduler* monitors the application state and sends the constraints for new computing resources (e.g., #CPU cores, memory size, and location of resources to handle privacy-sensitive data) to the resource allocator.
