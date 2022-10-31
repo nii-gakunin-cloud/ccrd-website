@@ -6,7 +6,7 @@ layout: default
 
 The National Institute of Informatics (NII) seeks to advance integrated research and development activities in information-related fields, including networking, software, and content. NII also promotes the creation of state-of-the-art academic information infrastructure, which is designed by fusing the new ultra high-speed network, SINET6, and the research data platform, NII Research Data Cloud, to promote data-driven science. 
 
-![OVERVIEW](figs/SC22_overview.png)
+![OVERVIEW](figs/SC22_overview-w.png)
 
 This website exhibit presents the latest results of our projects aimed at building cloud and IoT platforms for high-performance and secure data-driven science.
 
