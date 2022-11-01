@@ -12,6 +12,7 @@ layout: default
 - [PoC of Storing Scientific Research Data in Cloud Cold Storage Services](#storage)
 - [IoT Stream Processing (SINETStream)](#sinetstream)
 - [Cloud Service Checklist](#checklist)
+- [Zero Trust IoT](https://zt-iot.nii.ac.jp/)
 
 <a name="overview"> </a>
 
