@@ -99,15 +99,15 @@ layout: default
 <a name="lc4ri"> </a>
 
 ## Literate Computing for Reproducible Infrastructure (LC4RI)
-### English - [Literate-Computing.github.io](https://literate-computing.github.io/fastpages/)
+### English - [Literate-Computing.github.io](https://literate-computing.github.io/fastpages/introduction_en/)
 - [Repository] [NII Cloud Operation Team](https://github.com/NII-cloud-operation)
 - [Poster] sidestickies - Collaborative Annotation for Jupyter Notebook. Yoshi NOBU Masatani: JupyterCon 2020, Oct. 2020. [link](https://cfp.jupytercon.com/2020/schedule/presentation/168/sidestickies-collaborative-annotation-for-jupyter-notebook/), [Talk](https://www.youtube.com/embed/dObubiHnEBk?start=1565&end=1660&version=3)
 - [Poster] OperationHub - Enhanced JupyterHub for DevOps Engineers. Yoshi NOBU Masatani: JupyterCon 2020, Oct. 2020. [link](https://cfp.jupytercon.com/2020/schedule/presentation/141/operationhub-enhanced-jupyterhub-for-devops-engineers/), [Talk](https://www.youtube.com/embed/dObubiHnEBk?start=1210&end=1335&version=3)
 - [Poster] Sharing Notebook within Small Team. Satoshi Yazawa: JupyterCon 2020, Oct. 2020. [link](https://cfp.jupytercon.com/2020/schedule/presentation/147/sharing-notebook-within-small-team/), [Talk](https://www.youtube.com/embed/dObubiHnEBk?start=830&end=955&version=3)
 - [Presentation] Collaboration and automated operation as literate computing for reproducible infrastructure. Yoshi NOBU Masatani: JupyterCon 2017, Aug. 2017. [link](https://conferences.oreilly.com/jupyter/jup-ny-2017/public/schedule/detail/59995.html), [Slides](https://www.slideshare.net/nobu758/jupytercon-2017-collaboration-and-automated-operation-as-literate-computing-for-reproducible-infrastructure)
 
-### Japanese - [Literate-Computing.github.io/index-ja.html](https://literate-computing.github.io/index-ja.html)
-- [Seminar] CoursewareHub – Jupyter Notebookによる講義・演習環境, NII 情報処理技術セミナー, 2021年10月. [link](https://contents.nii.ac.jp/hrd/joho-karuizawa-cloud/2021/result),[Slides](https://contents.nii.ac.jp/sites/default/files/hrd/2021-10/%E6%83%85%E5%A0%B1%E5%87%A6%E7%90%86%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC-%E5%8D%88%E5%BE%8C-2021-10-01.pdf) 
+### Japanese - [Literate-Computing.github.io/index-ja.html](https://literate-computing.github.io/fastpages/introduction_ja/)
+- [Seminar] CoursewareHub – Jupyter Notebookによる講義・演習環境, NII 情報処理技術セミナー, 2021年10月,2022年8月. [link](https://contents.nii.ac.jp/hrd/joho-karuizawa-cloud/2021/result),[Slides](https://contents.nii.ac.jp/sites/default/files/hrd/2021-10/%E6%83%85%E5%A0%B1%E5%87%A6%E7%90%86%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC-%E5%8D%88%E5%BE%8C-2021-10-01.pdf) 
 - [Poster] 人間中心の機械化・自動化 - NIIの研究クラウドはNotebookで賢く運用, NII オープンハウス, 2021年6月. [PDF](https://www.dropbox.com/s/9rsg5umwyna1tsj/poster-ophub-20210521-v1a.pdf)
 - [Poster] Academic Baremetal Cloud の運用と監視, NII オープンハウス, 2019年6月. [PDF](https://www.dropbox.com/s/d14xjc6ipxamxib/poster-lc4ri-map-2019.pdf), [DEMO](https://mybinder.org/v2/gh/NII-cloud-operation/Jupyter-LC_docker/openhouse-2019-demo?urlpath=tree)
 - [Paper] Notebookによる講義・演習環境の開発, 長久 勝, 政谷 好伸, 合田 憲人, 研究報告教育学習支援情報システム, 2019-CLE-27(20), pp. 1-4, 2019年3月. [Link](https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_uri&item_id=195385&file_id=1&file_no=1)
