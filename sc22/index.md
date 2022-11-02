@@ -6,14 +6,14 @@ layout: default
 
 The National Institute of Informatics (NII) seeks to advance integrated research and development activities in information-related fields, including networking, software, and content. NII also promotes the creation of state-of-the-art academic information infrastructure, which is designed by fusing the new ultra high-speed network, SINET6, and the research data platform, NII Research Data Cloud, to promote data-driven science. 
 
-![OVERVIEW](figs/SC22_overview.png)
+![OVERVIEW](figs/SC22_overview-w.png)
 
 This website exhibit presents the latest results of our projects aimed at building cloud and IoT platforms for high-performance and secure data-driven science.
 
 # Projects
 
-## Literate Computing for Reproducible Infrastructure ([link](https://literate-computing.github.io/fastpages/tools_en/))
-- Jupyter Notebook extensions for reproducibility
+## Literate Computing for Reproducible Infrastructure  \[[LC4RI](https://literate-computing.github.io/fastpages/introduction_en/)\]  ([Demo](https://mybinder.org/v2/gh/NII-cloud-operation/Jupyter-LC_docker/sc-demo?urlpath=tree))
+- [Jupyter Notebook extensions for reproducibility](https://literate-computing.github.io/fastpages/tools_en/)
 - Knowledge sharing for IT operations utilizing Jupyter Notebook
 
 ## Automatically Building Systems for Dedicated Data Analysis ([link](CREST))
