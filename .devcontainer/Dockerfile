@@ -2,7 +2,7 @@
 
 # [Choice] Debian OS version (use bullseye on local arm64/Apple Silicon): bullseye, buster
 ARG VARIANT="2.7-bullseye"
-FROM mcr.microsoft.com/vscode/devcontainers/jekyll:0-${VARIANT}
+FROM mcr.microsoft.com/vscode/devcontainers/jekyll:${VARIANT}
 
 # [Choice] Node.js version: none, lts/*, 16, 14, 12, 10
 ARG NODE_VERSION="none"
