@@ -4,7 +4,7 @@ layout: default
 ---
 # Academic Information Infrastructure for Data-Driven Science
 
-[Overview](https://ccrd.nii.ac.jp/sc23/NAOJ/8_Case Studies of the Hybrid Cloud Architecture for Astronomical Observatory Data_A4_20230925.pdf)
+[Overview](https://ccrd.nii.ac.jp/sc23/Overview/1_Academic Information Infrastructure for Data-Driven Science.pdf)
 
 [Easy Deployment of High-Performance Data Analysis Platform  - OpenHPC, Open OnDemand -](https://ccrd.nii.ac.jp/sc23/Overview/1_Academic Information Infrastructure for Data-Driven Science.pdf)
 
