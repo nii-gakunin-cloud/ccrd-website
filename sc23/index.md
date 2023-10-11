@@ -2,7 +2,6 @@
 title: Center for Cloud Research and Development, NII
 layout: default
 ---
-# Academic Information Infrastructure for Data-Driven Science
 
 |Academic Information Infrastructure for Data-Driven Science||
 |---|---|
