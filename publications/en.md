@@ -58,7 +58,8 @@ layout: default
 
 ## IoT Stream Processing (SINETStream)
 - [Link] SINETStream (Official Site). [Link](https://www.sinetstream.net/index.en.html)
-- - [Paper] Development of a Secure Data Sharing Mechanism for IoT Application Systems, Naoya Kitagawa, Atsuko Takefusa and Kento Aida, 2022 IEEE 11th International Conference on Cloud Networking (CloudNet), pp. 131-135, doi: 10.1109/CloudNet55617.2022.9978835, Nov. 2022. [Link](https://ieeexplore.ieee.org/document/9978835)
+- [Paper] Weather-aware object detection method for maritime surveillance systems, Mingkang Chen, Jingtao Sun, Kento Aida, Atsuko Takefusa, Future Generation Computer Systems, Volume 151, Pages 111-123, February 2024. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0167739X2300362X?via%3Dihub)
+- [Paper] Development of a Secure Data Sharing Mechanism for IoT Application Systems, Naoya Kitagawa, Atsuko Takefusa and Kento Aida, 2022 IEEE 11th International Conference on Cloud Networking (CloudNet), pp. 131-135, doi: 10.1109/CloudNet55617.2022.9978835, Nov. 2022. [Link](https://ieeexplore.ieee.org/document/9978835)
 - [Paper] Intelligent Live Video Streaming for Object Detection, Mingkang Chen, Jingtao Sun, Kento Aida, Renato Figueiredo, Yun-Jung Ku, Kensworth Subratie,　Proceedings on the 19th IEEE International Conference on Smart City (Smart City 2021) 1427-1434 Dec. 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9781127)
 - [Paper] SINETStream: Enabling Research IoT Applications with Portability, Security and Performance Requirements, Atsuko Takefusa, Jingtao Sun, Ikki Fujiwara, Hiroshi Yoshida, Kento Aida, Calton Pu, 2021 IEEE 45th Annual Computers, Software, and Applications Conference (COMPSAC), pp. 482-492, 2021年7月.
 
