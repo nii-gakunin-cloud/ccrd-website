@@ -67,6 +67,6 @@ layout: default
 
 ## Cloud Service Checklist
 - [Paper] Cloud service checklist for academic communities and customization for genome medical research, Kumiko Kobayashi, Hiroshi Yoshida, Tomoya Tanjo, Kento Aida, Human Genome Variation 9, Article number: 36 (2022), Oct. 2022. [Link](https://www.nature.com/articles/s41439-022-00214-9)
-- [Checklist] GakuNin Cloud Adoption Support Service Cloud Checklist [Link](https://www.dropbox.com/s/v4i4aybo7livgno/CloudChecklistVer.5.1_EN.pdf?dl=0)
+- [Checklist] GakuNin Cloud Adoption Support Service Cloud Checklist [Link](https://www.dropbox.com/scl/fi/2cso33665321845dca8ns/CloudChecklistVer.6.0_EN.pdf?rlkey=of78zsyxguhom2uhgm20q902q&dl=0)
 - [Checklist] Cloud Checklist for Genome Medical Research [Link](https://www.dropbox.com/s/vjxt8ivwolsq6w5/Checklist_CRa_Ver12r1_EN.pdf?dl=0)
 - [Checklist] Cloud Checklist for Genome Medical Research tsv file [Link](https://www.dropbox.com/s/jo7292t00hip7tu/Checklist_CRa_Ver12r1_EN.tsv?dl=0) [sha256sum.txt](https://www.dropbox.com/s/sjjwpfnxx11qm38/sha256sum.txt?dl=0)
