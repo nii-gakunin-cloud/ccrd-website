@@ -4,7 +4,7 @@ layout: default
 ---
 # Academic Information Infrastructure for Data-Driven Science
 
-|Academic Information Infrastructure for Data-Driven Science||
+|   |   |
 |---|---|
 [Overview](https://ccrd.nii.ac.jp/sc23/Overview/1_Overview.htm)|[![](1_Overview.jpg)](https://ccrd.nii.ac.jp/sc23/Overview/1_Overview.htm)|
 [Easy Deployment of High-Performance Data Analysis Platform  - OpenHPC, Open OnDemand -](https://ccrd.nii.ac.jp/sc23/VCP/2_vcp.htm)|[![](2_SC23_vcp.jpg)](https://ccrd.nii.ac.jp/sc23/VCP/2_vcp.htm)|
