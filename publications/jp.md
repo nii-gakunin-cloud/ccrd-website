@@ -77,7 +77,7 @@ layout: default
 
 <a name="lc4ri"> </a>
 
-## Literate Computing for Reproducible Infrastructure (LC4RI) ; [DEMO (ja)](https://mybinder.org/v2/gh/NII-cloud-operation/Jupyter-LC_docker/openhouse-demo?urlpath=tree)
+## Literate Computing for Reproducible Infrastructure (LC4RI) << [デモ🔗](https://mybinder.org/v2/gh/NII-cloud-operation/Jupyter-LC_docker/openhouse-demo?urlpath=tree) >>
 ### Project website - [Literate-Computing.github.io/index-ja.html](https://literate-computing.github.io/fastpages/introduction_ja/)
 - [Seminar] Jupyter Notebookによる情報システムの構築・運用,  NII 情報処理技術セミナー, 2023年9月. [link](https://contents.nii.ac.jp/hrd/joho-karuizawa-cloud/2023)
 - [Poster] Jupyter Notebookによるクラウドインフラ運用の実践 -- 運用チームの育成・仮想空間出勤, NII オープンハウス, 2023年6月. [PDF](https://www.nii.ac.jp/event/openhouse/2023/upload/OH2023_poster_a-03.pdf)
