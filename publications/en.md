@@ -41,7 +41,7 @@ layout: default
 
 <a name="lc4ri"> </a>
 
-## Literate Computing for Reproducible Infrastructure (LC4RI)
+## Literate Computing for Reproducible Infrastructure (LC4RI) << [DEMO🔗](https://mybinder.org/v2/gh/NII-cloud-operation/Jupyter-LC_docker/sc-demo?urlpath=tree) >>
 ### Project website - [Literate-Computing.github.io](https://literate-computing.github.io/fastpages/introduction_en/)
 - [Repository] [NII Cloud Operation Team](https://github.com/NII-cloud-operation)
 - [Poster] sidestickies - Collaborative Annotation for Jupyter Notebook. Yoshi NOBU Masatani: JupyterCon 2020, Oct. 2020. [link](https://cfp.jupytercon.com/2020/schedule/presentation/168/sidestickies-collaborative-annotation-for-jupyter-notebook/), [Talk](https://www.youtube.com/embed/dObubiHnEBk?start=1565&end=1660&version=3)
