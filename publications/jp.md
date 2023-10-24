@@ -91,7 +91,7 @@ layout: default
 
 <a name="storage"> </a>
 
-## PoC oCase Studies of Hybrid Cloud Architectures for Astronomical Observatory Data
+## Case Studies of Hybrid Cloud Architectures for Astronomical Observatory Data
 - [Paper]パブリッククラウドを利用したALMA観測データの品質保証実証実験, 小杉城治, 森田英輔, 中里剛, 林 洋平, ルノー・ミエル, 合田憲人, 吉田浩, 宇宙科学情報解論文誌(ISSN 2433-2216), 10, pp.97-108, 2021年. [PDF](https://jaxa.repo.nii.ac.jp/?action=repository_uri&item_id=47388&file_id=31&file_no=1)
 - [Paper]パブリッククラウドを活用したALMA望遠鏡観測・解析データの蓄積と解析に関する実証実験, 吉田浩, 合田憲人, 小杉城治, 中里剛, 森田英輔, 林洋平, ミエル・ルノー, 研究報告システムソフトウェアとオペレーティング・システム（OS）, 2022-OS-155(6), pp.1-6, 2022年5月. [PDF](https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_uri&item_id=218148&file_id=1&file_no=1)
 - [Presentation]国立天文台のデータアーカイブやデータ解析におけるクラウド利用の実証実験と将来展望 小杉城治, CloudWeek2022@Hokkaido University, 2022年9月7日. [Movie](https://www.youtube.com/watch?v=ggLM6n71Adg&feature=youtu.be)
