@@ -9,7 +9,7 @@ layout: default
 - [Virtual Cloud Provider (VCP)](#vcp)
 - [Applications of VCP](#applications)
 - [Literate Computing for Reproducible Infrastructure (LC4RI)](#lc4ri)
-- [PoC of Storing ScientificCase Studies of Hybrid Cloud Architectures for Astronomical Observatory Data](#storage)
+- [Case Studies of Hybrid Cloud Architectures for Astronomical Observatory Data](#storage)
 - [IoT Stream Processing (SINETStream)](#sinetstream)
 - [Cloud Service Checklist](#checklist)
 - [Zero Trust IoT](https://zt-iot.nii.ac.jp/)
