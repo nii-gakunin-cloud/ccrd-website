@@ -77,8 +77,10 @@ layout: default
 
 <a name="lc4ri"> </a>
 
-## Literate Computing for Reproducible Infrastructure (LC4RI)
+## Literate Computing for Reproducible Infrastructure (LC4RI) ; [DEMO (ja)](https://mybinder.org/v2/gh/NII-cloud-operation/Jupyter-LC_docker/openhouse-demo?urlpath=tree)
 ### Project website - [Literate-Computing.github.io/index-ja.html](https://literate-computing.github.io/fastpages/introduction_ja/)
+- [Seminar] Jupyter Notebookによる情報システムの構築・運用,  NII 情報処理技術セミナー, 2023年9月. [link](https://contents.nii.ac.jp/hrd/joho-karuizawa-cloud/2023)
+- [Poster] Jupyter Notebookによるクラウドインフラ運用の実践 -- 運用チームの育成・仮想空間出勤, NII オープンハウス, 2023年6月. [PDF](https://www.nii.ac.jp/event/openhouse/2023/upload/OH2023_poster_a-03.pdf)
 - [Seminar] CoursewareHub – Jupyter Notebookによる講義・演習環境, NII 情報処理技術セミナー, 2021年10月,2022年8月. [link](https://contents.nii.ac.jp/hrd/joho-karuizawa-cloud/2021/result),[Slides](https://contents.nii.ac.jp/sites/default/files/hrd/2021-10/%E6%83%85%E5%A0%B1%E5%87%A6%E7%90%86%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC-%E5%8D%88%E5%BE%8C-2021-10-01.pdf) 
 - [Poster] 人間中心の機械化・自動化 - NIIの研究クラウドはNotebookで賢く運用, NII オープンハウス, 2021年6月. [PDF](https://www.dropbox.com/s/9rsg5umwyna1tsj/poster-ophub-20210521-v1a.pdf)
 - [Poster] Academic Baremetal Cloud の運用と監視, NII オープンハウス, 2019年6月. [PDF](https://www.dropbox.com/s/d14xjc6ipxamxib/poster-lc4ri-map-2019.pdf), [DEMO](https://mybinder.org/v2/gh/NII-cloud-operation/Jupyter-LC_docker/openhouse-2019-demo?urlpath=tree)
