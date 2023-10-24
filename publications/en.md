@@ -9,7 +9,7 @@ layout: default
 - [Virtual Cloud Provider (VCP)](#vcp)
 - [Applications of VCP](#applications)
 - [Literate Computing for Reproducible Infrastructure (LC4RI)](#lc4ri)
-- [PoC of Storing ScientificCase Studies of Hybrid Cloud Architectures for Astronomical Observatory Data](#storage)
+- [PoC of Storing ScientificCase Studies of Hybrid Cloud Architectures for Astronomical Observatory Data](#storage)
 - [IoT Stream Processing (SINETStream)](#sinetstream)
 - [Cloud Service Checklist](#checklist)
 - [Zero Trust IoT](https://zt-iot.nii.ac.jp/)
@@ -51,7 +51,7 @@ layout: default
 
 <a name="storage"> </a>
 
-## Case Studies of Hybrid Cloud Architectures for Astronomical Observatory Data
+## Case Studies of Hybrid Cloud Architectures for Astronomical Observatory Data
 - [Presentation] Experiments in Storing Scientific Research Data in Cloud Cold Storage Services. Hiroshi Yoshida: In presentations of Storage Developers Conference 2018. [Link](https://www.snia.org/sites/default/files/SDC/2018/presentations/Cloud_Storage/Yoshida_Hiroshi_Experiments_in_Storing_Scientific_Research_Data_in_Cloud_Cold_Storage_Services.pdf)
 
 <a name="sinetstream"> </a>
