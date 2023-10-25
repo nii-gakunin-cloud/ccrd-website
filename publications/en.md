@@ -12,7 +12,7 @@ layout: default
 - [Case Studies of Hybrid Cloud Architectures for Astronomical Observatory Data](#storage)
 - [IoT Stream Processing (SINETStream)](#sinetstream)
 - [Cloud Service Checklist](#checklist)
-- [Zero Trust IoT](https://zt-iot.nii.ac.jp/)
+- [Zero Trust IoT](https://zt-iot.nii.ac.jp/en/)
 
 <a name="overview"> </a>
 
