@@ -31,6 +31,8 @@ layout: default
 - [Link] 学認クラウドオンデマンド構築サービス (公式サイト) [Link](https://cloud.gakunin.jp/ocs/)
 - [Link] 学認クラウドオンデマンド構築サービス ハンズオン教材 [Link](https://github.com/nii-gakunin-cloud/handson)
 - [Link] 学認クラウドオンデマンド構築サービス アプリケーションテンプレート [Link](https://github.com/nii-gakunin-cloud/ocs-templates)
+- [Paper] クラウド環境構築システムVCPによるmdxでのスケーラブルなHPCクラスタの構築, 大江和一, 竹房 あつ子, 丹生 智也, 合田 憲人, 第190回 ハイパフォーマンスコンピューティング発表研究会(SWoPP2023)
+- [Paper] クラウド環境構築システムVCP ポータブル版の開発と活用事例の紹介, 大江和一, 丹生智也, 竹房あつ子, 合田憲人, 大学ICT推進協議会 2022年度年次大会 (AXIES2022) 2022年12月.
 - [Paper] クラウド環境構築システムVCPのmdxへの適用とOSS化に向けた試作, 大江 和一，竹房 あつ子，丹生 智也，塙 敏博，工藤 知宏, 合田 憲人, 情報処理学会研究報告, Vol. 2022-OS-156, No. 10, pp. 1-7, 2022年7月. [Link](http://id.nii.ac.jp/1001/00218876/)
 - [Link] NII オープンフォーラム2022 クラウドトラック2 「学認クラウドオンデマンド構築サービス・SINETStream」， 2022年6月． [Link](https://www.nii.ac.jp/openforum/2021/day2_cloud2.html)
 - [Poster] ポータブル版Virtual Cloud Providerの開発, 佐賀 一繁, 丹生 智也, 竹房　あつ子, 合田 憲人, 大学ICT推進協議会 2021年度年次大会 (AXIES2021) 2021年12月.
