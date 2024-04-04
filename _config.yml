@@ -22,7 +22,7 @@ title: Center for Cloud Research and Development, NII
 description: >- # this means to ignore newlines until "baseurl:"
   The National Institute of Informatics (NII) seeks to advance integrated research and development activities in information-related fields, including networking, software, and content. NII also promotes the creation of a state-of-the-art academic information infrastructure, such as SINET, a Japanese high-performance R&E network.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ccrd.nii.ac.jp" # the base hostname & protocol for your site, e.g. http://example.com
 
 author:
   name: Center for Cloud Research and Development, NII
@@ -56,6 +56,7 @@ exclude:
 #   - gemfiles/
   - Gemfile
   - Gemfile.lock
+  - vendor
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
