@@ -1,3 +1,3 @@
 ---
-redirect_to: "/sc22"
+redirect_to: "/sc24"
 ---
