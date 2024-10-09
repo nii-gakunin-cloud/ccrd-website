@@ -7,7 +7,7 @@ layout: default
 |   |   |   |
 |---|---|---|
 [Overview](https://ccrd.nii.ac.jp/sc24/1_Overview/1_Overview.htm)|[![](1_Overview.jpg)](https://ccrd.nii.ac.jp/sc24/1_Overview/1_Overview.htm)|[Download PDF](https://ccrd.nii.ac.jp/sc24/1_Overview/1_Overview_A4.pdf)|
-[Easy Deployment of High-Performance Data Analysis Platform  - OpenHPC, Open OnDemand -](https://ccrd.nii.ac.jp/sc23/VCP/2_vcp.htm)|[![](2_SC23_vcp.jpg)](https://ccrd.nii.ac.jp/sc23/VCP/2_vcp.htm)|[Download PDF](https://ccrd.nii.ac.jp/sc23/VCP/2_SC23_VCP-r9_A4.pdf)|
+[Development of a Hybrid Job Deployment Platform Using Open OnDemand](https://ccrd.nii.ac.jp/sc24/2_VCP/2_VCP.htm)|[![](2_SC23_vcp.jpg)](https://ccrd.nii.ac.jp/sc24/2_VCP/2_VCP.htm)|[Download PDF](https://ccrd.nii.ac.jp/sc24/2_VCP/2_VCP-A4.pdf)|
 [Extensible Scientific Workflow Engine and Ecosystem for Genome Analysis Workflows](https://ccrd.nii.ac.jp/sc23/EP3/3_ep3.htm)|[![](3_SC23_ep3-a4.jpg)](https://ccrd.nii.ac.jp/sc23/EP3/3_ep3.htm)|[Download PDF](https://ccrd.nii.ac.jp/sc23/EP3/3_SC23_ep3-a4.pdf)|
 [IoT Stream Processing](https://ccrd.nii.ac.jp/sc23/SINETStream/4_SINETStream.htm)<br>Project website - [sinetstream.net](https://www.sinetstream.net/index.en.html)|[![](4_SC23_SINETStream-A4.jpg)](https://ccrd.nii.ac.jp/sc23/SINETStream/4_SINETStream.htm)|[Download PDF](https://ccrd.nii.ac.jp/sc23/SINETStream/4_SC23_SINETStream-A4.pdf)|
 [Zero Trust based IoT Security Overview](https://ccrd.nii.ac.jp/sc23/ZTIoT1/5_ZTIoT1.htm)<br>Project website - [zt-iot.nii.ac.jp](https://zt-iot.nii.ac.jp/)|[![](5_SC23_panel_zt-iot_overview.jpg)](https://ccrd.nii.ac.jp/sc23/ZTIoT1/5_ZTIoT1.htm)|[Download PDF](https://ccrd.nii.ac.jp/sc23/ZTIoT1/5_SC23_panel_zt-iot_overview_0929.pdf)|
