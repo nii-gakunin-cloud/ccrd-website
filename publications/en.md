@@ -26,6 +26,9 @@ layout: default
 <a name="vcp"> </a>
 
 ## Virtual Cloud Provider (VCP)
+- [Paper] Generalization of Construction and Operation Methods for a Web-based Programming Exercise Support System Used Simultaneously in Multiple Subjects, Tomoya Saito, Kazuichi Oe, Jun Nishii, Koichi Okada, Takahiro Tamesue, Yue Wang, Yuko Tsutsui, Tomoya Tanjo, Atsuko Takefusa, Journal for Academic Computing and Networking No.28 pp. 1-12, DOI: 10.24669/jacn.28.1_1 (in Japanese)
+- [Paper] Development of a Web-based Programming Education Support System for Collaborative and Simultaneous Use Across Multiple Subjects, Kazuichi OE, Tomoya SAITO, Yuko TSUTSUI, Tomoya TANJO, Jun NISHII, Koichi OKADA, Takahiro TAMESUE, Yue WANG, and Atsuko TAKEFUSA, SWoPP 2024 (CPSY2024-30) (in Japanese)
+- [Paper] Development of Application Template for Web-based Programming Education Support System can be used jointly and simultaneously in Multiple Subjects, Saito Tomoya, Oe Kazuichi, Nishii Jun, Okada Koichi, Tamesue Takahiro, Wang Yue, Tsutsui Yuko, Tanjo Tomoya, Takefusa Atsuko, IPSJ CLE43 (2024.3) (in Japanese)
 - [Paper] Virtual Cloud Service System for Building Effective Inter-Cloud Applications, Atsuko Takefusa, Shigetoshi Yokoyama, Yoshinobu Masatani, Tomoya Tanjo, Kazushige Saga, Masaru Nagaku, Kento Aida, Proc. IEEE CloudCom 2017, pp. 296-303, Dec. 2017. [Link](http://dx.doi.org/10.1109/CloudCom.2017.48)
 - [Paper] Reproducible Scientific Computing Environment with Overlay Cloud Architecture, Shigetoshi Yokohama, Yoshinobu Masatani, Tazro Ohta, Osamu Ogasawara, Nobukazu Yoshioka, Kai Liu, Kento Aida, Proc. the 9th IEEE International Conference on Cloud Computing (IEEE CLOUD 2016), pp. 774-781, Jul. 2016. [Link](http://dx.doi.org/10.1109/CLOUD.2016.0107)
 
