@@ -22,6 +22,9 @@ permalink: /
 
 - SC24
   - [https://ccrd.nii.ac.jp/sc24](sc24)
+
+- SC24-2
+  - [https://ccrd.nii.ac.jp/sc24-2](sc24)
  
 - Publications
   - [https://ccrd.nii.ac.jp/publications](publications)
