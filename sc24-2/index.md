@@ -13,3 +13,48 @@ With the widespread adoption of Open OnDemand, users without sufficient knowledg
 ![VCP](figs/2_SC24_VCP-r7-2.jpg)
 
 [Download pdf](docs/2_VCP_A4.pdf)
+
+# IoT Stream Processing
+
+T.B.D.
+
+# Zero Trust based IoT Security
+
+T.B.D.
+
+# Operation Technologies for Next-Generation HPC Infrastructure
+
+T.B.D.
+
+# Practice of Efficient Identity Proofing in HPCI Sign-up with Federated Credentials
+
+T.B.D.
+
+# Case Studies of Hybrid Cloud Architectures for Astronomical Observatory Data
+
+T.B.D.
+
+# Research Data Analysis Platform for Reproducible Data-driven Science
+
+T.B.D.
+
+# Literate Computing for Reproducible Infrastructure
+
+T.B.D.
+
+# MMCFTP's Data Transfer Experiment Using Ten 100 Gbps Lines Vetween Japan and USA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
