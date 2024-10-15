@@ -44,7 +44,11 @@ T.B.D.
 
 # MMCFTP's Data Transfer Experiment Using Ten 100 Gbps Lines Vetween Japan and USA
 
+T.B.D.
 
+![NICT](figs/10_sc24_mmcftp_2.png)
+
+[Download pdf](docs/10_sc24_mmcftp_org.pdf)
 
 
 
