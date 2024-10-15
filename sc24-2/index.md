@@ -46,7 +46,7 @@ T.B.D.
 
 T.B.D.
 
-![NICT](figs/10_sc24_mmcftp_2.png)
+![NICT](figs/10_sc24_mmcftp-2.png)
 
 [Download pdf](docs/10_sc24_mmcftp_org.pdf)
 
