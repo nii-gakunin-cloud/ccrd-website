@@ -26,7 +26,7 @@ T.B.D.
 
 This project aims to realize secure Internet of Things (IoT) systems by the concept of zero trust by the fusion of formal verification and system software technologies. In formal verification research, we provide mathematical proofs for the legitimacy of IoT trust chains and address undiscovered threats by combining static and dynamic verification. In system software research, we develop mechanisms for isolated execution, automatic detection and automatic countermeasures in conjunction with the theoretical results to demonstrate zero trust IoT (ZT-IoT). 
 
-[![ZT-IoT](figs/4_SC24_ZT-IoT_r5.jpg)](figs/4_SC24_ZT-IoT_r5.jpg)
+[![ZT-IoT](figs/4_SC24_ZT-IoT_r5-thumbnail.jpg)](figs/4_SC24_ZT-IoT_r5.jpg)
 
 [[ZT-IoT Project]](https://zt-iot.nii.ac.jp/en/) [[Download pdf]](docs/4_SC24_ZT-IoT_A4.pdf)
 
