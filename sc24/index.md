@@ -34,7 +34,7 @@ This project aims to realize secure Internet of Things (IoT) systems by the conc
 
 Japan is planning to develop a successor to the supercomputer “Fugaku,” Fugaku- NEXT, and is considering a next-generation computing infrastructure that would federate Fugaku-NEXT, major supercomputers in Japan, clouds, etc. In collaboration with the University of Tokyo, RIKEN R-CCS, and Institute of Science Tokyo, we investigate the operation technologies required by the computing infrastructure and introduce the topics of resource management and security.
 
-[![NGFS](figs/5_SC24.ngfs.r8.jpg)](figs/5_SC24.ngfs.r8.jpg)
+[![NGFS](figs/5_SC24.ngfs.r8-thumbnail.jpg)](figs/5_SC24.ngfs.r8.jpg)
 
 [[Download pdf]](docs/5_SC24.ngfs.A4.pdf)
 
