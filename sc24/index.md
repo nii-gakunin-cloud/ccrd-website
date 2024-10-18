@@ -24,11 +24,19 @@ T.B.D.
 
 # Zero Trust based IoT Security
 
-T.B.D.
+This project aims to realize secure Internet of Things (IoT) systems by the concept of zero trust by the fusion of formal verification and system software technologies. In formal verification research, we provide mathematical proofs for the legitimacy of IoT trust chains and address undiscovered threats by combining static and dynamic verification. In system software research, we develop mechanisms for isolated execution, automatic detection and automatic countermeasures in conjunction with the theoretical results to demonstrate zero trust IoT (ZT-IoT). 
+
+[![ZT-IoT](figs/4_SC24_ZT-IoT_r5.jpg)](figs/4_SC24_ZT-IoT_r5.jpg)
+
+[[ZT-IoT Project]](https://zt-iot.nii.ac.jp/en/) [[Download pdf]](docs/4_SC24_ZT-IoT_A4.pdf)
 
 # Operation Technologies for Next-Generation HPC Infrastructure
 
-T.B.D.
+Japan is planning to develop a successor to the supercomputer “Fugaku,” Fugaku- NEXT, and is considering a next-generation computing infrastructure that would federate Fugaku-NEXT, major supercomputers in Japan, clouds, etc. In collaboration with the University of Tokyo, RIKEN R-CCS, and Institute of Science Tokyo, we investigate the operation technologies required by the computing infrastructure and introduce the topics of resource management and security.
+
+[![NGFS](figs/5_SC24.ngfs.r8.jpg)](figs/5_SC24.ngfs.r8.jpg)
+
+[[Download pdf]](docs/5_SC24.ngfs.A4.pdf)
 
 # Practice of Efficient Identity Proofing in HPCI Sign-up with Federated Credentials
 
