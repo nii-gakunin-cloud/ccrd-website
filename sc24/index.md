@@ -8,7 +8,7 @@ The National Institute of Informatics (NII) seeks to advance integrated research
 
 [![Overview](figs/1_SC24_Overview_r1-thumbnail.jpg)](figs/1_SC24_Overview_r1.jpg)
 
-[Download pdf](docs/1_Overview_A4.pdf)
+[[Download pdf]](docs/1_Overview_A4.pdf)
 
 # Development of a Hybrid Job Deployment Platform Using Open OnDemand
 
@@ -16,7 +16,7 @@ With the widespread adoption of Open OnDemand, users without sufficient knowledg
 
 [![VCP](figs/2_SC24_VCP-r7-thumbnail.jpg)](figs/2_SC24_VCP-r7.jpg)
 
-[Download pdf](docs/2_VCP_A4.pdf)
+[[Download pdf]](docs/2_VCP_A4.pdf)
 
 # IoT Stream Processing
 
