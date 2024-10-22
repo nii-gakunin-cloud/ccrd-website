@@ -56,9 +56,9 @@ T.B.D.
 
 T.B.D.
 
-# MMCFTP's Data Transfer Experiment Using Ten 100 Gbps Lines Between Japan and USA
+# MMCFTP's Data Transfer Experiment Using Ten 100 Gbps Lines Between Japan and USA (demonstrated at NICT booth #3155)
 
-Today, academic networks are interconnected by international lines of over 100 Gbps. Combining and using these lines simultaneously allows for the faster data transfers required for cutting-edge scientific and technological research. In this demonstration, Japan and the US will be connected by ten 100 Gbps lines, and memory-to-memory transfer experiments will be conducted using MMCFTP, which is a high-speed transfer tool supports multi-path transfers. The goal is to achieve a peak speed of 800 Gbps.
+Today, academic networks are interconnected by international lines of over 100 Gbps. Combining and using these lines simultaneously allows for the faster data transfers required for cutting-edge scientific and technological research. In this demonstration, Japan and the US will be connected by ten 100 Gbps lines, and memory-to-memory transfer experiments will be conducted using MMCFTP, a high-speed transfer tool that supports multi-path transfers. We will challenge ourselves to achieve a peak speed of 800 Gbps.
 
 ![NICT](figs/10_sc24_mmcftp-2.png)
 
