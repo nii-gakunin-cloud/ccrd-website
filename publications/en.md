@@ -63,6 +63,7 @@ layout: default
 
 ## IoT Stream Processing (SINETStream)
 ### Project website - [SINETStream](https://www.sinetstream.net/index.en.html)
+- [Paper] Chisa Ito, Atsuko Takefusa, Hidemoto Nakada, Masato Oguchi, Communication Performance Evaluation Using Compression Processing for IoT Systems in Mobile Environments, Proc. IEEE COMPSAC 2024, SIS-SS, pp. 2374-2379, Jul. 2024. doi: 10.1109/COMPSAC61105.2024.00380.
 - [Paper] Weather-aware object detection method for maritime surveillance systems, Mingkang Chen, Jingtao Sun, Kento Aida, Atsuko Takefusa, Future Generation Computer Systems, Volume 151, Pages 111-123, February 2024. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0167739X2300362X?via%3Dihub)
 - [Paper] R. Sasaki, A. Takefusa, H. Nakada and M. Oguchi, "Development and Evaluation of IoT System Consisting of ROS-based Robot, Edge and Cloud," 2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC), Torino, Italy, 2023, pp. 1737-1744, doi: 10.1109/COMPSAC57700.2023.00268.
 - [Paper] Development of a Secure Data Sharing Mechanism for IoT Application Systems, Naoya Kitagawa, Atsuko Takefusa and Kento Aida, 2022 IEEE 11th International Conference on Cloud Networking (CloudNet), pp. 131-135, doi: 10.1109/CloudNet55617.2022.9978835, Nov. 2022. [Link](https://ieeexplore.ieee.org/document/9978835)
