@@ -109,6 +109,7 @@ layout: default
 
 ## IoT Stream Processing (SINETStream)
 ### Project website - [SINETStream](https://nii-gakunin-cloud.github.io/sinetstream/)
+- [Link] NII オープンフォーラム2024 SINETStream・研究データ解析基盤， 2024年6月． [Link](https://www.nii.ac.jp/openforum/2024/day2_cloud-sinetstream.html)
 - [Paper] Weather-aware object detection method for maritime surveillance systems, Mingkang Chen, Jingtao Sun, Kento Aida, Atsuko Takefusa, Future Generation Computer Systems, Volume 151, Pages 111-123, February 2024. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0167739X2300362X?via%3Dihub)
 - [Paper] R. Sasaki, A. Takefusa, H. Nakada and M. Oguchi, "Development and Evaluation of IoT System Consisting of ROS-based Robot, Edge and Cloud," 2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC), Torino, Italy, 2023, pp. 1737-1744, doi: 10.1109/COMPSAC57700.2023.00268.
 - [Link] NII オープンフォーラム2023 クラウドトラック4 「SINETStream」， 2023年5月． [Link](https://www.nii.ac.jp/openforum/2023/day3_cloud4.html)
