@@ -13,7 +13,7 @@ layout: default
 - [IoT Stream Processing (SINETStream)](#sinetstream)
 - [Cloud Service Checklist](#checklist)
 - [Zero Trust IoT](https://zt-iot.nii.ac.jp/en/)
-- [Massively Multi-Connections file transfer protocol (MMCFTP)](#mmcftp).
+- [Massively Multi-Connections file transfer protocol (MMCFTP)](#mmcftp)
 
 <a name="overview"> </a>
 
