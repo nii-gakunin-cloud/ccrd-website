@@ -110,11 +110,12 @@ layout: default
 ## IoT Stream Processing (SINETStream)
 ### Project website - [SINETStream](https://nii-gakunin-cloud.github.io/sinetstream/)
 - [Paper] Chisa Ito, Atsuko Takefusa, Hidemoto Nakada, Masato Oguchi, Communication Performance Evaluation Using Compression Processing for IoT Systems in Mobile Environments, Proc. IEEE COMPSAC 2024, SIS-SS, pp. 2374-2379, Jul. 2024. doi: 10.1109/COMPSAC61105.2024.00380.
-- [Link] NII オープンフォーラム2024 SINETStream・研究データ解析基盤， 2024年6月． [Link](https://www.nii.ac.jp/openforum/2024/day2_cloud-sinetstream.html)
+- [Link] NII オープンフォーラム2024 SINETStream・研究データ解析基盤, 2024年6月. [Link](https://www.nii.ac.jp/openforum/2024/day2_cloud-sinetstream.html)
 - [Paper] Weather-aware object detection method for maritime surveillance systems, Mingkang Chen, Jingtao Sun, Kento Aida, Atsuko Takefusa, Future Generation Computer Systems, Volume 151, Pages 111-123, February 2024. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0167739X2300362X?via%3Dihub)
+- [Poster] IoT実験のためのSINETStreamお試しサービスの構想, 藤原 一毅, 竹房 あつ子, 北川 直哉, 小林 久美子, 合田 憲人, インターネットと運用技術シンポジウム（IOTS2023）論文集, pp.103-104, 2023年12月.
 - [Paper] R. Sasaki, A. Takefusa, H. Nakada and M. Oguchi, "Development and Evaluation of IoT System Consisting of ROS-based Robot, Edge and Cloud," 2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC), Torino, Italy, 2023, pp. 1737-1744, doi: 10.1109/COMPSAC57700.2023.00268.
-- [Link] NII オープンフォーラム2023 クラウドトラック4 「SINETStream」， 2023年5月． [Link](https://www.nii.ac.jp/openforum/2023/day3_cloud4.html)
-- [Poster] SINETStreamを用いた船上での多種センサデータ収集実験, 竹房 あつ子, 北川 直哉1, 大島 浩太, 小林 久美子, 吉田 浩, 合田 憲人, 大学ICT推進協議会 2022年度 年次大会 (AXIES 2023), 2022年12月. [Poster](https://www.dropbox.com/s/achiu0xmforae8p/202212_axies_poster.pdf?dl=0)
+- [Link] NII オープンフォーラム2023 クラウドトラック4 「SINETStream」, 2023年5月. [Link](https://www.nii.ac.jp/openforum/2023/day3_cloud4.html)
+- [Poster] SINETStreamを用いた船上での多種センサデータ収集実験, 竹房 あつ子, 北川 直哉, 大島 浩太, 小林 久美子, 吉田 浩, 合田 憲人, 大学ICT推進協議会 2022年度 年次大会 (AXIES 2023), 2022年12月. [Poster](https://www.dropbox.com/s/achiu0xmforae8p/202212_axies_poster.pdf?dl=0)
 - [Paper] Development of a Secure Data Sharing Mechanism for IoT Application Systems, Naoya Kitagawa, Atsuko Takefusa and Kento Aida, 2022 IEEE 11th International Conference on Cloud Networking (CloudNet), pp. 131-135, doi: 10.1109/CloudNet55617.2022.9978835, 2022年11月. [Link](https://ieeexplore.ieee.org/document/9978835)
 - [Paper] 船上監視を支援する物体検出システムの設計, 陳 明康, 孫 静涛, 合田 憲人, 情報処理学会研究報告 2022-DPS-192(13), 2022年9月2日 [Link](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=219553&item_no=1&page_id=13&block_id=8)
 - [Paper] SINETStreamを用いたセンサデータの可視化・監視およびストレージ連携機能の開発, 小林 久美子, 竹房 あつ子, 北川 直哉, 吉田 浩, 合田 憲人, マルチメディア，分散，協調とモバイル(DICOMO2022)シンポジウム論文集, pp.87-92, 2022年7月. [Link](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=219587&item_no=1&page_id=13&block_id=8)
