@@ -148,7 +148,7 @@ layout: default
 <a name="mmcftp"> </a>
 
 ## Massively Multi-Connections file transfer protocol (MMCFTP)
-- [Paper] 1λ1.2Tbps回線を用いた高速データ転送実験, 山中顕次郎, 栗本崇, 漆谷重雄, 信学技報, Volume 123, Number 397, pp. 397-400, NS2023-239, 2024年2月22日, [Link](https://ken.ieice.org/ken/paper/20240301Lcb9)
+- [Paper] 1λ1.2Tbps回線を用いた高速データ転送実験, 山中顕次郎, 栗本崇, 漆谷重雄, 信学技報, Volume 123, Number 397, pp. 397-400, NS2023-239, 2024年2月22日, [Link](https://ken.ieice.org/ken/paper/20240301Lcb9/)
 - [Link] 光1波長あたり1.2Tbpsでの世界最長336km伝送と世界最大容量1Tbps超のデータ転送のフィールド実証に成功, NIIニュースリリース, 2023年10月30日, [Link](https://www.nii.ac.jp/news/release/2023/1030.html)
 - [Paper] ５本の100Gbps回線を用いたMMCFTPによる日米間高速データ転送実験〜データ転送サーバサイジング手法の提案〜, 山中顕次郎, 阿部俊二, 漆谷重雄, 電子情報通信学会技術報告, Volume 119, Number 460, pp. 397-400, NS2019-248, 2020年2月27日, [Link](https://ken.ieice.org/ken/paper/20200306E1WK/)
 - [Link] 日欧間で速度131Gbpsのデータ転送に成功, NIIニュースリリース, 2017年6月2日, [Link](https://www.nii.ac.jp/news/release/2017/0602-2.html)
