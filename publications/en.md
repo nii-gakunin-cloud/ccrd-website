@@ -13,6 +13,7 @@ layout: default
 - [IoT Stream Processing (SINETStream)](#sinetstream)
 - [Cloud Service Checklist](#checklist)
 - [Zero Trust IoT](https://zt-iot.nii.ac.jp/en/)
+- [Massively Multi-Connections file transfer protocol (MMCFTP)](#mmcftp).
 
 <a name="overview"> </a>
 
@@ -77,3 +78,10 @@ layout: default
 - [Checklist] GakuNin Cloud Adoption Support Service Cloud Checklist [Link](https://www.dropbox.com/scl/fi/2cso33665321845dca8ns/CloudChecklistVer.6.0_EN.pdf?rlkey=of78zsyxguhom2uhgm20q902q&dl=0)
 - [Checklist] Cloud Checklist for Genome Medical Research [Link](https://www.dropbox.com/s/vjxt8ivwolsq6w5/Checklist_CRa_Ver12r1_EN.pdf?dl=0)
 - [Checklist] Cloud Checklist for Genome Medical Research tsv file [Link](https://www.dropbox.com/s/jo7292t00hip7tu/Checklist_CRa_Ver12r1_EN.tsv?dl=0) [sha256sum.txt](https://www.dropbox.com/s/sjjwpfnxx11qm38/sha256sum.txt?dl=0)
+
+<a name="mmcftp"> </a>
+
+## Massively Multi-Connections file transfer protocol (MMCFTP)
+- [Presentaion] A data transfer method for physics data of experimental fusion reactors using virtual disks, Kenjiro Yamanaka, Hideya Nakanishi, Shinsuke Tokunaga, Shigeo Urushidani, 14th Technical Meeting on Control Systems, Data Acquisition, Data Management and Remote Participation in Fusion Research, São Paulo, Brazil, Jul 15-18, 2024, [Link](https://conferences.iaea.org/event/377/contributions/31664/)
+- [Link] Japanese joint research group achieves a world record of 1.2Tbps for optical signal transmission with over 1Tbps data transfer in field trial, NII News Release, Oct 30, 2023,  [Link](https://www.nii.ac.jp/en/news/release/2023/1030.html)
+- 
