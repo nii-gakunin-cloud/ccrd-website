@@ -56,6 +56,8 @@ layout: default
 <a name="storage"> </a>
 
 ## Case Studies of Hybrid Cloud Architectures for Astronomical Observatory Data
+- [Paper] Efficient use of commercial cloud for astronomical data archive and data analysis, George Kosugi, Eisuke Morita, Takeshi Nakazato, Renaud Miel, Hiroaki Tagawa, Kanako Sugimoto, Kento Aida, Hiroshi Yoshida, 2433-2216), Proceedings Volume 13101, Software and Cyberinfrastructure for Astronomy VIII (2024). [Link](https://doi.org/10.1117/12.3019514)
+- [Presentation] eScience Activities in Japan - Cloud Adoption and Utilization Support in Academic Research Community: PoC for Astronomical Observation Data, Kento Aida, International Symposium on Grids & Clouds (2024). [Presentation](https://indico4.twgrid.org/event/33/contributions/1441/attachments/810/1023/ISGC2024-KentoAida_240326.pdf)
 - [Presentation] Performance and Cost Evaluation of Public Cloud Cold Storage Services for Astronomy Data Archive and Analysis, Hiroshi Yoshida, Kento Aida, George Kosugi, Eisuke Morita, Takeshi Nakazato, Yohei Hayashi, Renaud Miel, International Symposium on Grids & Clouds 2022 (ISGC2021), Mar. 2021.
 [PDF](https://indico4.twgrid.org/event/14/contributions/393/attachments/161/201/Performance_and_Cost_of_Cloud_Cold_Storage_for_Astronomy_Data_Archive_and_Analysis.pdf)
 - [Presentation] Experiments in Storing Scientific Research Data in Cloud Cold Storage Services. Hiroshi Yoshida: In presentations of Storage Developers Conference 2018. [PDF](https://www.snia.org/sites/default/files/SDC/2018/presentations/Cloud_Storage/Yoshida_Hiroshi_Experiments_in_Storing_Scientific_Research_Data_in_Cloud_Cold_Storage_Services.pdf)
