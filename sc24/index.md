@@ -50,7 +50,12 @@ T.B.D.
 
 # Case Studies of Hybrid Cloud Architectures for Astronomical Observatory Data
 
-T.B.D.
+Adopting public cloud services for scientific research will reduce the total cost of ownership, allow the use of state-of-the-art technologies (e.g., the latest GPUs), and establish BCP. However, no methodology exists for designing an optimal architecture to realize these advantages. We have been conducting case studies of storing and analyzing ALMA radio telescope data in public cloud services in collaboration with the National Astronomical Observatory of Japan (NAOJ) to demonstrate the best practices and discuss the design of a suitable architecture.
+
+[![NGFS](figs/7_Case Studies of the Hybrid Cloud Architecture for Astronomical Observatory Data_thumbnail.jpg)](figs/7_Case Studies of the Hybrid Cloud Architecture for Astronomical Observatory Data_A4.jpg)
+
+[[Download pdf]](docs/7_Case Studies of the Hybrid Cloud Architecture for Astronomical Observatory Data.pdf)
+
 
 # Research Data Analysis Platform for Reproducible Data-driven Science
 
