@@ -60,7 +60,7 @@ CCRD is developing a variety of computing services that cooperate with NII RDC t
 
 [![FCS](figs/8_SC24_FCS-r1-thumbnail.jpg)](figs/8_SC24_FCS-r1.jpg)
 
-[[Download pdf]](docs/8_FCS_A4.pdf)
+[[Download pdf]](docs/8_SC24_FCS_A4.pdf)
 
 # Literate Computing for Reproducible Infrastructure
 
