@@ -54,7 +54,13 @@ T.B.D.
 
 # Research Data Analysis Platform for Reproducible Data-driven Science
 
-T.B.D.
+To promote data-driven science, a high degree of integration between research data and computational resources is desired. 
+NII develops the national research data platform called NII Research Data Cloud (RDC). It consists of GakuNin RDM, an OSF-based research data management service, JAIRO Cloud, an Invenio-based repository service, and CiNii Research, a discovery service.
+CCRD is developing a variety of computing services that cooperate with NII RDC to facilitate the use of research data by diverse researchers.
+
+[![FCS](figs/8_SC24_FCS-r1-thumbnail.jpg)](figs/8_SC24_FCS-r1.jpg)
+
+[[Download pdf]](docs/8_FCS_A4.pdf)
 
 # Literate Computing for Reproducible Infrastructure
 
