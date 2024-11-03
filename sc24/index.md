@@ -2,7 +2,7 @@
 title: Center for Cloud Research and Development, NII
 layout: default
 ---
-[![Floor](figs/SC24_floor_50.png)](figs/SC24_floor.png)
+<img src="figs/SC24_floor.png" alt="Floor" style="width: 80%;">
 
 # Academic Information Infrastructure for Data-Driven Science
 
