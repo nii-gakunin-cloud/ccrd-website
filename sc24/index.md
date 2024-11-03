@@ -66,15 +66,20 @@ CCRD is developing a variety of computing services that cooperate with NII RDC t
 
 [[Download pdf]](docs/8_SC24_FCS_A4.pdf)
 
-# Literate Computing for Reproducible Infrastructure
+# Literate Computing for Reproducible Infrastructure (LC4RI)
 
-T.B.D.
+<span style="color: blue;"><em>LC4RI</em></span> uses Jupyter Notebooks to share reproducible IT workflows, enable collaboration within DevOps teams, and provide reproducible IT environments for research projects.<br>
+<span style="color: blue;"><em>Reproducibility Extensions for Jupyter Notebook:</em></span> Jupyter Notebook was designed initially as a non-linear explorative computing tool, typically for data-driven scientists. As a countermeasure to ensure robust, traceable, and reproducible IT operations, the “Semi-Linier Extension” constrains arbitrary cell executions into semi-linear orders and records throughout loggings. As for consolidating and flexible remarks, “sidestickes” enable collaborative annotation across notebooks.
+
+<img src="figs/9_SC24_Literate_Computing-v1.2_A4.jpg" alt="LC4RI" style="width: 45%;">
+
+[[Download pdf]](docs/9_SC24_Literate_Computing-v1.2_A4.pdf)
 
 # MMCFTP's Data Transfer Experiment Using Ten 100 Gbps Lines Between Japan and USA (demonstrated at NICT booth #3155)
 
 Today, academic networks are interconnected through international lines of over 100 Gbps. By combining and using these lines simultaneously, we can achieve the faster data transfers needed for cutting-edge scientific and technological research. In this demonstration, Japan and the US will be connected via 10 x 100 Gbps lines, and memory-to-memory transfer experiments will be conducted using MMCFTP, a high-speed transfer tool that supports multipath transfers. We aim to achieve a peak speed of 800 Gbps.
 
-![NICT](figs/10_sc24_mmcftp-2.png)
+<img src="figs/10_sc24_mmcftp-2.png" alt="NICT" style="width: 45%;">
 
 [[Download pdf]](docs/10_sc24_mmcftp_org.pdf)
 
