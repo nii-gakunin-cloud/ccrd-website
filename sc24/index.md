@@ -21,6 +21,7 @@ The National Institute of Informatics (NII) seeks to advance integrated research
 With the widespread adoption of Open OnDemand, users without sufficient knowledge of Linux systems can now submit jobs to HPC clusters. However, constructing HPC clusters remains difficult. We are developing Virtual Cloud Provider (VCP) middleware to support the construction of data analysis platforms, e.g., HPC clusters. VCP enables users to easily configure an HPC cluster and deploy software libraries required by applications, including GPU libraries, OpenHPC, and Open OnDemand, instead of HPC system administrators.
 
 [![VCP](figs/2_SC24_VCP-r7-thumbnail.jpg)](figs/2_SC24_VCP-r7.jpg)
+<img src="figs/2_SC24_VCP-r7.jpg" alt="VCP" style="width: 30%;">
 
 [[Download pdf]](docs/2_VCP_A4.pdf)
 
