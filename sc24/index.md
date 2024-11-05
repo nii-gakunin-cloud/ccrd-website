@@ -11,7 +11,7 @@ The National Institute of Informatics (NII) seeks to advance integrated research
 <!--- [![Overview](figs/1_SC24_Overview_r1-thumbnail.jpg)](figs/1_SC24_Overview_r1.jpg) -->
 <img src="figs/1_SC24_Overview_r1.jpg" alt="Overview" style="width: 30%;">
 
-<a href "figs/1_SC24_Overview_r1-thumbnail.jpg"><img src="figs/1_SC24_Overview_r1.jpg" alt="Overview" style="width: 30%;"></a>
+<a href="figs/1_SC24_Overview_r1-thumbnail.jpg"><img src="figs/1_SC24_Overview_r1.jpg" alt="Overview" style="width: 30%;"></a>
 
 [[Download pdf]](docs/1_Overview_A4.pdf)
 
