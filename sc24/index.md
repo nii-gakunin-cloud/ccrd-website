@@ -82,7 +82,7 @@ CCRD is developing a variety of computing services that cooperate with NII RDC t
 
 Today, academic networks are interconnected through international lines of over 100 Gbps. By combining and using these lines simultaneously, we can achieve the faster data transfers needed for cutting-edge scientific and technological research. In this demonstration, Japan and the US will be connected via 10 x 100 Gbps lines, and memory-to-memory transfer experiments will be conducted using MMCFTP, a high-speed transfer tool that supports multipath transfers. We aim to achieve a peak speed of 800 Gbps.
 
-[![MMCFTP](figs/10_sc24_mmcftp-2.png)](figs/10_SC24_mmcftp.jpg)
+[![MMCFTP](figs/10_sc24_mmcftp-2.png)](figs/10_sc24_mmcftp.jpg)
 
 [[Download pdf]](docs/10_sc24-mmcftp.pdf)
 
