@@ -9,7 +9,7 @@ layout: default
 The National Institute of Informatics (NII) seeks to advance integrated research and development activities in informationrelated fields, including networking, software, and content. NII also promotes the creation of state-of-the-art academic information infrastructure, designed by fusing the ultra high-speed network, SINET6, and the research data platform, NII Research Data Cloud, to promote data-driven science.
 
 [![Overview](figs/1_SC24_Overview_r1-thumbnail.jpg)](figs/1_SC24_Overview_r1.jpg)
-<img src="figs/1_SC24_Overview_r1.jpg" alt="Overview" style="width: 20%;">
+<img src="figs/1_SC24_Overview_r1.jpg" alt="Overview" style="width: 30%;">
 
 
 [[Download pdf]](docs/1_Overview_A4.pdf)
