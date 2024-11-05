@@ -84,5 +84,5 @@ Today, academic networks are interconnected through international lines of over 
 
 <img src="figs/10_sc24_mmcftp-2.png" alt="NICT" style="width: 45%;">
 
-[[Download pdf]](docs/10_sc24_mmcftp_org.pdf)
+[[Download pdf]](docs/10_sc24_mmcftp.pdf)
 
