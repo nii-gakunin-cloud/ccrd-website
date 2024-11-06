@@ -52,6 +52,10 @@ Japan is planning to develop a successor to the supercomputer “Fugaku,” Fuga
 
 T.B.D.
 
+[![HPCI](figs/6_SC24_nii_HPCI_a4-thumbnail.jpg)](figs/6_SC24_nii_HPCI_a4.jpg)
+
+
+
 # Case Studies of Hybrid Cloud Architectures for Astronomical Observatory Data
 
 Adopting public cloud services for scientific research will reduce the total cost of ownership, allow the use of state-of-the-art technologies (e.g., the latest GPUs), and establish BCP. However, no methodology exists for designing an optimal architecture to realize these advantages. We have been conducting case studies of storing and analyzing ALMA radio telescope data in public cloud services in collaboration with the National Astronomical Observatory of Japan (NAOJ) to demonstrate the best practices and discuss the design of a suitable architecture.
