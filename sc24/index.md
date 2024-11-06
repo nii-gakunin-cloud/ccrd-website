@@ -75,7 +75,8 @@ CCRD is developing a variety of computing services that cooperate with NII RDC t
 <span style="color: blue;"><em>LC4RI</em></span> uses Jupyter Notebooks to share reproducible IT workflows, enable collaboration within DevOps teams, and provide reproducible IT environments for research projects.<br>
 <span style="color: blue;"><em>Reproducibility Extensions for Jupyter Notebook:</em></span> Jupyter Notebook was designed initially as a non-linear explorative computing tool, typically for data-driven scientists. As a countermeasure to ensure robust, traceable, and reproducible IT operations, the “Semi-Linier Extension” constrains arbitrary cell executions into semi-linear orders and records throughout loggings. As for consolidating and flexible remarks, “sidestickes” enable collaborative annotation across notebooks.
 
-<a href="docs/9_SC24_Literate_Computing-v1.2_A4.pdf"><img src="figs/9_SC24_Literate_Computing-v1.2_A4.jpg" alt="Download PDF" title="Download PDF" style="width: 35%;"></a>
+<!--- <a href="docs/9_SC24_Literate_Computing-v1.2_A4.pdf"><img src="figs/9_SC24_Literate_Computing-v1.2_A4.jpg" alt="Download PDF" title="Download PDF" style="width: 35%;"></a> -->
+[![LC4RI](figs/9_SC24_Literate_Computing-v1.2_A4-thumbnail.jpg)](figs/9_SC24_Literate_Computing-v1.2_A4.jpg)
 
 [[Download pdf]](docs/9_SC24_Literate_Computing-v1.2_A4.pdf)
 
