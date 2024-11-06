@@ -54,7 +54,7 @@ T.B.D.
 
 [![HPCI](figs/6_SC24_nii_HPCI_a4-thumbnail.jpg)](figs/6_SC24_nii_HPCI_a4.jpg)
 
-
+[[Download pdf]](docs/6_SC24_nii_HPCI_a4.pdf)
 
 # Case Studies of Hybrid Cloud Architectures for Astronomical Observatory Data
 
