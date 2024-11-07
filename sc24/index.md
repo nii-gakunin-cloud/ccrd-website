@@ -50,7 +50,7 @@ Japan is planning to develop a successor to the supercomputer “Fugaku,” Fuga
 
 # Practice of Efficient Identity Proofing in HPCI Sign-up with Federated Credentials
 
-T.B.D.
+HPCI is a distributed high performance computing infrastructure in Japan, composed of supercomputers and large file storages connected by the high speed network SINET. User identity proofing in HPCI identity management is still a heavy burden on not only users but also administrators. To resolve such old and new problems, we develop a self-service approach to proofing user identity with authentication federations, concretely, a sign-up with federated credentials.
 
 [![HPCI](figs/6_SC24_nii_HPCI_a4-thumbnail.jpg)](figs/6_SC24_nii_HPCI_a4.jpg)
 
