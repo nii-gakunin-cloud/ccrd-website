@@ -84,11 +84,11 @@ CCRD is developing a variety of computing services that cooperate with NII RDC t
 
 [[Download pdf]](docs/9_SC24_Literate_Computing-v1.2_A4.pdf)
 
-> <span style="color: orange;"><em>Demo on MyBinder.org:</em></span>
+> <span style="color: blue;"><em>Demo on MyBinder.org:</em></span>
 > ```
 > https://mybinder.org/v2/gh/NII-cloud-operation/Jupyter-LC_docker/sc-demo?urlpath=tree)
 > ```
-> span style="color: orange;"><em>Demo on your computer:</em></span>
+> <span style="color: blue;"><em>Demo on your computer:</em></span>
 > ```
 > docker run -it --rm -p 8888:8888 niicloudoperation/notebook:sc-demo  jupyter lab --LabApp.default_url=/tree
 > ```
