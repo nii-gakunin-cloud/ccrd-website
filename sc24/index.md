@@ -86,7 +86,7 @@ CCRD is developing a variety of computing services that cooperate with NII RDC t
 
 > <span style="color: blue;"><em>Demo on MyBinder.org:</em></span>
 > ```
-> https://mybinder.org/v2/gh/NII-cloud-operation/Jupyter-LC_docker/sc-demo?urlpath=tree)
+> https://mybinder.org/v2/gh/NII-cloud-operation/Jupyter-LC_docker/sc-demo?urlpath=tree
 > ```
 > <span style="color: blue;"><em>Demo on your computer:</em></span>
 > ```
