@@ -84,6 +84,16 @@ CCRD is developing a variety of computing services that cooperate with NII RDC t
 
 [[Download pdf]](docs/9_SC24_Literate_Computing-v1.2_A4.pdf)
 
+> <span style="color: orange;"><em>Demo on MyBinder.org:</em></span>
+> ```
+> https://mybinder.org/v2/gh/NII-cloud-operation/Jupyter-LC_docker/sc-demo?urlpath=tree)
+> ```
+> span style="color: orange;"><em>Demo on your computer:</em></span>
+> ```
+> docker run -it --rm -p 8888:8888 niicloudoperation/notebook:sc-demo  jupyter lab --LabApp.default_url=/tree
+> ```
+> .. then access the URL given by this command.  Like `http://127.0.0.1:8888/tree?token=xxxxxx`
+
 # MMCFTP's Data Transfer Experiment Using Ten 100 Gbps Lines Between Japan and USA (demonstrated at NICT booth #3155)
 
 Today, academic networks are interconnected through international lines of over 100 Gbps. By combining and using these lines simultaneously, we can achieve the faster data transfers needed for cutting-edge scientific and technological research. In this demonstration, Japan and the US will be connected via 10 x 100 Gbps lines, and memory-to-memory transfer experiments will be conducted using MMCFTP, a high-speed transfer tool that supports multipath transfers. We aim to achieve a peak speed of 800 Gbps.
