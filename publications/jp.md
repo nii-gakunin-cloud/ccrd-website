@@ -112,6 +112,7 @@ layout: default
 
 ## IoT Stream Processing (SINETStream)
 ### Project website - [SINETStream](https://nii-gakunin-cloud.github.io/sinetstream/)
+- [Paper] IoT アプリケーションシステムのための SINETStream 多種センサデータ可視化・監視機能の開発, 小林 久美子, 竹房 あつ子, 北川 直哉, 大島 浩太, 竹島 雅之, 平田 真樹, 森松 文毅, 吉田 浩, 合田 憲人, 学術情報処理研究 (JACN) 28(1) 66-75 2024年11月.  [Link](https://www.jstage.jst.go.jp/article/jacn/28/1/28_66/_article/-char/ja)
 - [Paper] Chisa Ito, Atsuko Takefusa, Hidemoto Nakada, Masato Oguchi, Communication Performance Evaluation Using Compression Processing for IoT Systems in Mobile Environments, Proc. IEEE COMPSAC 2024, SIS-SS, pp. 2374-2379, Jul. 2024. doi: 10.1109/COMPSAC61105.2024.00380.
 - [Link] NII オープンフォーラム2024 SINETStream・研究データ解析基盤, 2024年6月. [Link](https://www.nii.ac.jp/openforum/2024/day2_cloud-sinetstream.html)
 - [Paper] Weather-aware object detection method for maritime surveillance systems, Mingkang Chen, Jingtao Sun, Kento Aida, Atsuko Takefusa, Future Generation Computer Systems, Volume 151, Pages 111-123, February 2024. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0167739X2300362X?via%3Dihub)
